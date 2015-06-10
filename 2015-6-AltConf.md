@@ -255,3 +255,46 @@
 - Launch starts at day 0
 - how is what you are doing better or different than what is already out there
 - book recomendation: the 22 immutable laws of marketing
+- app website can be helpful
+- polished video for astropad!
+- put together a press kit - icons, logos, screenshots, product shots, team pictures, guide & quotes
+- make a big press list - sites you want to be covered on - niche sites can often be better than general tech sites
+- pick a launch date - ideally in the middle of the week
+- Send individual emails and not mass emails to all contacts - make the email short! the contact can follow up for more details later if necessary
+- book rec: the burned out bloggers guide to PR
+
+## Imagine a fully diverse & inclusive world - Melinda Briana Epler @changecatalysts
+
+- What happened to women in computer science?
+- What could go wrong when we don't have diverse teams? Products built by men can be poorly designed when used by women.
+- What is diversity? Inviting people to the table.
+- What is inclusion? Inviting people to speak, participate and lead.
+- What could go right? Numerous examples shown on slide of successful women-run companies.
+
+## What Haskell Teaches Me About Swift - Amizer Nasir @abizern
+
+- Why Haskell? Learning haskell will make you a better swift programmer!
+- Type inference
+- Favor immutable state over mutating values - valued don't change under you- esaier to maintian - more likely to be thread safe
+- prefer structs over classes
+- avoid mutating structs
+- lists - don't iterate over a list - use higher order functions instead (map, filter, reduce)
+- reduce is often enough rather than map - be careful though for sacrificing readability
+- monads - is sort of like a burrito - a value in a context - optional is a context that contains a value or doesnt have a value - Result is the context that has  value or an error in getting that value
+- The type system is your friend - strong types can fix a whole class of bugs - If it compiles, your moset of the way to solving your problem
+- typealias is useful for making code clearer - it can also make higer order function dclarations easier to read.
+- just looking at the types can make it easyer to reason about your problems
+- keep code with side effeccs in one place
+- functions all the way down - easier to test - very small functions can be easier to read
+- higher order functions can reduce duplication in code
+- map on optionals - applicative on optionals (optional functions) - bind on optinoals (flatmap)
+- do we still need OOP? Sometimes need to deal with existing Cocoa apis that are more OOP.
+- you you have pur funtions, is it worth worring about their access modifiers? Can you make thime bare functions instead?
+- group together functions into a protocol
+- Books: learn you a haskell for great good - real world haskell - Functional programming in swift - Maybe Haskell by Pat Brisbin
+- With Cocoa now, we have the choice of two different approaches to the same problem space 
+- Don't confuse complexity for unfamiliarity!
+
+## Building in Success with Market First Development - Charles Perry @DazeEnd
+
+
