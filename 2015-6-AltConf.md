@@ -297,4 +297,76 @@
 
 ## Building in Success with Market First Development - Charles Perry @DazeEnd
 
+- 0.01% of devs consider their apps to be financially successful
+- devs only think like engineers - think like entrepreneurs
+- think about what people will actually pay for!
+- 4 Success factors: market you are selling to (The most important factor!!!), marketing, aesthetics, functionality
 
+### choose a market
+
+- enter a niche - make a product that could become an essential product in that niche - less competition - large players have no interest in many niches
+    - less downward price pressure
+- that has money
+- and values its own time
+- brainstorming niches
+    - hobbies - things peopel like to do for fun
+    - interests - things people linke to learn about
+    - occupations
+- evaluating a niche
+    - how big is the market? Is it big enough to sustain a business? Magazine test: If there is a magazine dedicated to a niche, that may be a good enough niche. Advertising support.
+    - Can you reach your niche? AppStore is not advertising. Blogs, message boards, podcasts
+    - Is your audience willing to spend money? The more passionate the audience is, the more likely thery are to spend money.
+
+### concieve of a product
+
+- Brainstorm product ideas 
+    - if you are a member of that niche ask yourself the questions
+    - Ask questions or interview people in the niche - What things frustrate these users?
+    - Look for real world objects to turn into virtual objects
+    - desktop software - convert desktop software to run on mobile
+- Evaluate product ideas
+    - does my idea address a pain point? How painful is that pain paint?
+    - does it save the customer money?
+    - Do you save the customer time? Time is real money!
+    - What does the existing competition look like? The fact that competitors exists is proff that there is demand for a product
+    - Can you charge money? What is your monetization plan? 
+
+### execute
+
+- Competition is fierce in the App Store so you need to execute well
+
+## Localization - Laura Savino 
+
+### Incorrect Assumptions
+
+- youve actually found your strings
+    - images with strings built in
+    - Test for accessibility
+- languages are madlibs
+- pluralization is binary
+- you'll get away without cultural context
+- NSLocalizedString - you are probably using wrong - NSLocalizedStringWithDefaultValue
+
+### Tips
+
+- Croudin localization tool
+- double length pseudo strings
+- edit scheme is your new friend - command shift comma
+- pseudo-translate for debugging
+- run exportLocalizations to check errors - consult man genstrings page for error descriptions
+- treat strings & xliff files as build products - be careful manually editing them
+
+## Lightning Talk - Being Nice in Open Source - Orta Therox
+
+- nice has different eanings
+- normal person + percieved privacy + yes people audience = total jerkface
+- friction with other people is easy
+- friction gets followers - it creates echo chambers
+- "That's not as funny as you think it is"
+- being nice is actually hard
+- Lets be positive - say something nice about a project every single day
+- @mostgood - @judychen
+
+## Lightning Talk - Making Online Learning Accessible - Kortney Ryan Ziegler
+
+## Panel: The Lessons of GamerGate 
