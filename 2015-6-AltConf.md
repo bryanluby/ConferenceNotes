@@ -402,3 +402,24 @@
     - Wikipedia for terminology
     - Demo app is on Github
     - Light blue app for iOS
+
+## NSFWObjectiveC - Sash Zats
+
+- Explore objective-c runtime
+- Creating classes at runtime
+     - encapsulate functinolaty
+     - multiple inheritance
+     - build a class from various pieces of scattered code
+     - bring temporary functionality to existing instances
+- KVO
+    - prepare a dynamic subclass as a marker
+    - swizzle setter and getter, calling original implimentation along with handler
+    - match KVO will / did change semantics
+    - can provide validation proxy
+    - transform values
+    - decrypt the value of a property upon access by certain classes
+- Toll-Free Bridging
+    - Bridge between CoreFoundation and Foundation
+    - Many C apis are still not matched with objc ones
+    - Not possible to have your own
+- Can create protocols at runtime!
