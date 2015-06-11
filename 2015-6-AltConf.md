@@ -358,7 +358,7 @@
 
 ## Lightning Talk - Being Nice in Open Source - Orta Therox
 
-- nice has different eanings
+- nice has different meanings
 - normal person + percieved privacy + yes people audience = total jerkface
 - friction with other people is easy
 - friction gets followers - it creates echo chambers
@@ -367,6 +367,38 @@
 - Lets be positive - say something nice about a project every single day
 - @mostgood - @judychen
 
-## Lightning Talk - Making Online Learning Accessible - Kortney Ryan Ziegler
+## CoreBluetooth and You - Jon Shier
 
-## Panel: The Lessons of GamerGate 
+- low power, on the order of months for a single cell battery
+- designed for small bits of data at low power
+- built in profiles for heath fintess
+- proximity sensing (ibeacon)
+- casses fore each important aspect of BluetooothLE
+- CBCentralManager
+    - Manages discovered and connected peripherals
+- Most of eth APIs are delegate based
+- Scanning for peripherals
+    - manually start, stop
+    - must receive state callback at least once to start
+    - get back: peripheral name, UUID, RSSI, advertisement data
+- Connecting to a peripheral
+    - Manually start, stop; stop with a timer
+- Talking to a peripheral
+    - Query the RSSI, as the property is deprecated
+    - Query the services
+    - Get back CBService
+    - Query the services characteristics - get values
+    - Query the characteristics descriptors - include descriptions for the type of data you get back for a characteristic
+- Reading a characteristic's value
+    - value has raw bytes in it
+- Writing a characterisci's value
+- Subscribing to a charateristic's changes
+    - applicable to something fitbit
+    - didupdatevalueforcharacteristic
+    - careful of dealing with background updating for power saving. May want to unsubscribe.
+- Resources
+    - Apples CoreBluetooth guide
+    - Ray Wenderlich intro to CoreBluetooth tutorial
+    - Wikipedia for terminology
+    - Demo app is on Github
+    - Light blue app for iOS
