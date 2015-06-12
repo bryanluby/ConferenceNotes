@@ -508,3 +508,99 @@
 - Use libgit and objective-git if you want to implement something similar yourself.
 - Sample code?
 
+## Power up your Animations! - Marin Todorov
+
+- iOS 9
+    - UIViweAnitamionOptions are now OptionSetType - can use an empty set or combination of options
+    - spring animations - new CASpringAnimation
+- Try different properties
+    - calayer - cornerRadiues, shadowOpacity, shadowOffset, shadowColor, borderWidth, borderColor
+    - cashapelayer - linDashPattern, lineDashPhase ("marching ants")
+- Try new layers - many more than calayer and cashapelayer - CaReplicatorLayer
+- Think out of the box - combine uiview snapshotting with custom view controller transition - grab a tableview cell snapshot - core image transitions
+- Easy animation framework on Github
+
+## Designing Mobile Apps for Kids - Kathryn Rotondo @krotondo
+
+- What are kids? Young kids, kids under the age of 18, still maturing, etc.
+
+- 5 Patterns
+    1. provide friendly company inside the app for the child - have guides or hosts in the app - friendly voice or character that guides the child through the app
+    2. intuitive instructions - visually explicit - make app as usuable without any instructions at all - if you do need instructinos, then "show" them
+    3. encouraging feedback - sound effects - give friendly corrections - give incremental tiered feedback - give random rewards that happen intermitently throughout gameplay - give feedback that in put has been registered
+    4. helpful reminders (most important concept) - inactivity timeouts 
+    5. happy endings - what happens at the end of gameplay for a child - information 
+- Resources
+    - Sesame Best Practices book
+    - Design for Kids books
+    - Apple guides - parental gates
+    - Moms with Apps
+    - Confs: Dust or Magic, Tech with kids, The Kids Want Mobile
+
+## The Worst Code - Michele Titolo @MicheleTitolo
+
+- How "not" to create software
+- software is ultimately about people
+- Improving Team effectiveness
+    - coordination
+    - cooperation
+    - cummunication
+- Effective communication
+- Organizational Smells
+    - team within a team - a subteam forms - other people are being left out - team and project can lose perspective really fast
+    - central command - just one person who is doing all of the communication - single points of failure are bad
+    - isolation - people on teams are not talking with each other at all - makes it difficult to ship - also happens when people only communicate negatively with each other
+    - unreachable goal - the team will eventually fall apart - will lead to spaghetti code - unfinished components
+    - black sheep - one person on your team is not who you think thery are  - they ar not triing to help other members of the team - they may have ulterior motives
+
+## A Eulogy for Objective-C - Aaron Hillegass
+
+- Loves objc!
+- Simula 67 first object orineted language
+- Smalltalk - message based
+- Steve jobs at Xerox Parc video demo
+- Brad Cox and Tom Love
+- Objective-C
+- Why Object-oriented langugages for guis? Languages designed from the beginning to be simulations.
+- NeXTstep
+- Dynamic
+    - introspection (KVC)
+    - loose typing (Unarchiving, target/action) - everything thing was just an "id" in the early days
+    - isa-swizzling (Faults)
+    - creating classes at runtime (KVO)
+- Categories rule! category additions from other frameworks!
+- OpenStep - Retain counts - NS prefix - More explicit method names
+- GNUstep
+- Webobjects + Windows
+- Fragile base class problem
+- Objective-C 2.0
+- Stabs at concurrency - Most successful? NSRunLoop
+- Swift is a step forward
+    - Less C
+    - more terse syntax
+    - stronger type system
+    - fewer files
+- Swift is currently a mutt language due to interoperability
+- Objective-C is not really dead!
+
+## Planetary Engineering - Mike Lee @bmf
+
+- givens
+- humans need not apply - cgp grey 
+- world modeling video 
+- github eldragonrojo/slides
+- the fermi paradox - where is everybody? The great filter
+- world modeling - what do we do?
+- startup earth
+- lots of slides - just listening
+
+## Humanities x Technology - Ashley Nelson-Hornstein @ashleynh
+
+- lack of knowledge of device specs
+- the intersections betweeen technology and libeal arts
+- tech alone is not enough!
+- dr edwin land polaroid camera - hide complexity internally
+- never alone video game
+- Twitter - hashtag activism - harassment
+- focus on the experience of using the product
+- "when people run into eachother and make eye contact, things happen"
