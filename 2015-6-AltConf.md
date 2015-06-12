@@ -423,3 +423,88 @@
     - Many C apis are still not matched with objc ones
     - Not possible to have your own
 - Can create protocols at runtime!
+
+## RACDC 
+
+### Intro - J Spahr-Summers
+
+- What is RAC?
+    - Not just KVO - KVO has been a means to an end
+    - Not just bindings for iOS - least interesting features of RAC
+    - Not just futures
+    - The real power is the unification of all these patterns into "Signals"
+- Downsides of RAC 2
+    - What's in the box?? Not enough visibility into types
+    - Hot and cold signals - can be confusing - Difficult to tell whether you are dealing with a hot or cold signal
+        - Subjects, Multicasting, Replaying
+    - RACCommand - gets overcomplicated - lots of rarely used features - error handling can be difficult - coupling to the main thread
+    - "RAC has too much magic!"
+    - Swift happened
+        - parameterized types
+        - No macros
+        - Less dynamism - KVC and KVO are difficult in Swift
+- RAC 3
+    - Signal<T,E> - parameterized valued and errors - Biggest benefit of RAC 3
+    - Signals (Like the hot signal of RAC 2) and Signal Producers (Like the cold RAC 2 signals)
+    - Action (instead of RACCommand)
+    - PropertyType protocol - replace kvc, kvo - they always have a current value that you can read - observable!
+    - The theme of all the changes in RAC 3 are in the name of simplicity
+        - easy - familiar or approachable 
+        - simple - sepratae concerns - less complex - single responsibility principle - unix: small tools that can be composed together
+        - RAC 2 is neither easy nor simple
+    - Changelog.md file good resource on RAC 3 changes
+    - Need to finish long-form documentation before RAC 3 release
+    - contribute? email justin and join slack channel
+
+### Functional programming in an imperative world - @NachoSoto
+
+- Live demos comparing imperative vs frp approach
+- What is state? Data over time.
+- Simple vs easy - we tend reach for the easy which magnifiers complexity
+- FRP - challenge is that apps need some state - allows you to represent state by making it explicit - time becomes first class citizen
+- rxjs video (Netflix)
+
+### RAC 3 - A Real World Use Case ake ReactiveChess - Javier Soto @Javi
+
+#### Wins
+
+- typed signals!
+- less debugging necessary
+- conciseness
+- clearer semantics
+
+#### Frustrations
+
+- compiler crashes (swift 2 fixes many of them)
+- type errors 
+    - extract intermediat results into sepratae values
+    - inspect the types with option ? click
+    - check RAC's functions signatures command click
+    - look for a function that matches what youre trying to do
+    - if it compiles, it works!
+    - created an enum conforming to error type for different types of API errors
+- Custom rac operators - log() - |>
+
+### Panel Discussion
+
+- Swift error handling has less type information - no plans to integrate Swift error handling
+- potentially may be bringing objc generics to RAC 2
+- learning resources - there is no one true resource - pick something small that you think RAC may help you with and try converting it to RAC - ask questions on github repo - look into other peoples questions on github
+- canonical use cases for signals - location updates - signal producers would be more ideal since you can start/stop - always on would be more suitable for signal rather than producer
+- may use protocol extensions rather than free functions in RAC 3
+- reactive animation for RAC 3 - great for flattening animiton code
+- They want to see higher kinded types - can't write a protocol that defines a signal - want to see better debugging, visualization of stack traces
+
+- look at RAC 3 changelog for help when upgrading to 3 - upgrade in a piecemeal fashion - 2.0 will still work fine
+
+## Functional Programming in Swift - Chris Eidhof
+
+- Mostly a live coding demo of functional view controllers (source code is on github)
+
+## Git as a Document Format - Will Shipley
+
+- He went into history of file formats of Cocoa - Check the slides that are posted
+- Demoed app that uses git as a document format with full persistent undo/redo stack
+- Use libgit and objective-git if you want to implement something similar yourself.
+- Sample code?
+
