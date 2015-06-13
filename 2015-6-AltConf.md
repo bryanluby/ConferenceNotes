@@ -350,7 +350,7 @@
 - languages are madlibs
 - pluralization is binary
 - you'll get away without cultural context
-- NSLocalizedString - you are probably using wrong - NSLocalizedStringWithDefaultValue
+- `NSLocalizedString` - you are probably using wrong - `NSLocalizedStringWithDefaultValue`
 
 ### Tips
 
@@ -367,7 +367,9 @@
 - normal person + perceived privacy + yes people audience = total jerkface
 - friction with other people is easy
 - friction gets followers - it creates echo chambers
-- "That's not as funny as you think it is"
+
+> That's not as funny as you think it is
+
 - being nice is actually hard
 - Lets be positive - say something nice about a project every single day
 - @mostgood - @judychen
@@ -503,7 +505,8 @@
 
 ## Functional Programming in Swift - Chris Eidhof
 
-- Mostly a (Frakking awesome!) live coding demo of functional view controllers (source code is on Github)
+- Mostly a (*Frakking awesome!*) live coding demo of functional view controllers
+- [Example Code](https://github.com/chriseidhof/github-issues)
 
 ## Git as a Document Format - Will Shipley
 
@@ -512,17 +515,17 @@
 - Use libgit and objective-git if you want to implement something similar yourself.
 - Sample code?
 
-## Power up your Animations! - Marin Todorov
+## Power up your Animations! - Marin Todorov @icanzilb
 
 - iOS 9
-    - UIViewAnitamionOptions are now OptionSetType - can use an empty set or combination of options
+    - `UIViewAnitamionOptions` are now `OptionSetType` - can use an empty set or combination of options
     - spring animations - new CASpringAnimation
 - Try different properties
-    - CALayer - cornerRadius, shadowOpacity, shadowOffset, shadowColor, borderWidth, borderColor
-    - cashapelayer - linDashPattern, lineDashPhase ("marching ants")
-- Try new layers - many more than CALayer and CAShapeLayer - CaReplicatorLayer
-- Think out of the box - combine UIView snapshotting with custom view controller transition - grab a tableview cell snapshot - core image transitions
-- Easy animation framework on Github
+    - `CALayer` - `cornerRadius`, `shadowOpacity`, `shadowOffset`, `shadowColor`, `borderWidth`, `borderColor`
+    - `CAShapeLayer` - `lineDashPattern`, `lineDashPhase` ("marching ants")
+- Try new layers - many more than `CALayer` and `CAShapeLayer` - `CAReplicatorLayer`
+- Think out of the box - combine `UIView` snapshotting with custom view controller transition - grab a tableview cell snapshot - core image transitions
+- [Easy animation framework on Github](https://github.com/icanzilb/EasyAnimation)
 
 ## Designing Mobile Apps for Kids - Kathryn Rotondo @krotondo
 
@@ -584,7 +587,8 @@
     - stronger type system
     - fewer files
 - Swift is currently a mutt language due to interoperability
-- "Objective-C is not really dead!"
+
+> Objective-C is not really dead!
 
 ## Planetary Engineering - Mike Lee @bmf
 
@@ -606,4 +610,5 @@
 - never alone video game
 - Twitter - hashtag activism - harassment
 - focus on the experience of using the product
-- "when people run into each other and make eye contact, things happen"
+
+> when people run into each other and make eye contact, things happen
