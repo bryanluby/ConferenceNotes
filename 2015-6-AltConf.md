@@ -78,10 +78,10 @@
 - binary compatibility for frameworks
 - C++ - actively improved, great tooling, cross-platform, fast!, powerful standard library, many 3rd-party libraries
 - no Cocoapods compatibility
-- auto and range-based for loops, shared_ptr, weak, lambdas, move semantics
+- auto and range-based for loops, `shared_ptr`, weak, lambdas, move semantics
 - std::vector<CGPoint>
 - initializer lists
-- smart pointer - unique_ptr
+- smart pointer - `unique_ptr`
 - book on starting C++ - effective modern c++
 - Objective-C++ - freely mix C++ and Objcs
 - enable by renaming files to .hpp and .mm
@@ -354,7 +354,7 @@
 
 ### Tips
 
-- Croudin localization tool
+- [Crowdin](https://crowdin.com) localization tool
 - double length pseudo strings
 - edit scheme is your new friend - command shift comma
 - pseudo-translate for debugging
@@ -518,8 +518,8 @@
 ## Power up your Animations! - Marin Todorov @icanzilb
 
 - iOS 9
-    - `UIViewAnitamionOptions` are now `OptionSetType` - can use an empty set or combination of options
-    - spring animations - new CASpringAnimation
+    - `UIViewAnimationOptions` are now `OptionSetType` - can use an empty set or combination of options
+    - spring animations - new `CASpringAnimation`
 - Try different properties
     - `CALayer` - `cornerRadius`, `shadowOpacity`, `shadowOffset`, `shadowColor`, `borderWidth`, `borderColor`
     - `CAShapeLayer` - `lineDashPattern`, `lineDashPhase` ("marching ants")
@@ -571,7 +571,7 @@
 - NeXTstep
 - Dynamic
     - introspection (KVC)
-    - loose typing (Unarchiving, target/action) - everything thing was just an "id" in the early days
+    - loose typing (Unarchiving, target/action) - everything thing was just an `id` in the early days
     - isa-swizzling (Faults)
     - creating classes at runtime (KVO)
 - Categories rule! category additions from other frameworks!
