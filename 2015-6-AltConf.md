@@ -2,7 +2,7 @@
 
 ## Misc
 
-- github.com/flexmonkey
+- <http://www.github.com/flexmonkey>
 
 ## Keynote panel discussion - iMore
 
@@ -11,30 +11,31 @@
 - Wider adoption of Metal
 - Apple music
 - Split screen window management
-- No Siri on the mac???
+- No Siri on the Mac???
 - Siri deep linking
 - Safari view controller
 - News - Flipboard got sherlocked
 - Vastly improved 3rd party watch support
 - Shift key fixed on iOS keyboard
-- ipad trackpad keyboard
+- iPad trackpad keyboard
 - command tab app switching on iOS
-- Swift open source - linux (share client and server classes!!!)
+- Swift open source - Linux (share client and server classes!!!)
 - iOS low power mode switch
 - watch complications
 
 ## Platforms state of the union
 
-- Free native dev - only need appleid
+- Free native dev - only need AppleID
 - Single paid dev program!!!!!!
-- 1.3 free space needed to install iOS 9
+- 1.3 gigs free space needed to install iOS 9
 - Hopes for faster iOS adoption
 - app thinning
+- *The theater I was in lost streaming connection at this point*
 
 ## How indoor location will change your user experience - Scott Brewer @goawaygeek
 
 - Various location aware museum app demos - users felt closer to the works in the museum that they saw - Bluetooth beacons - Core bluetooth
-- EnsoLocate: location platform - simplifies the management of the objects in the museum space - public beta open now - "Indoor Location Made Easy" - ensolocate.com
+- EnsoLocate: location platform - simplifies the management of the objects in the museum space - public beta open now - "Indoor Location Made Easy" - <http://ensolocate.com>
 - Their client needed a specific problem solved and not just a generic location platform solution
 - They used almost 200 beacons that worked off a triangulation algorithm
 
@@ -42,13 +43,15 @@
 
 - Swift is ready for prime time
 - Careful with implicitly unwrapped optionals and nibs - Will crash in Swift and not objc if an outlet is nil
-- let > var
-- Non-optional > ? > !
+- `let` > `var`
+- Non-optional > `?` > `!`
 - Use optionals only when they make sense
 - heavy use of var and optionals is like writing objective-c in swift and getting the worst of both
 - use small focused structs using all lets
-- New patterns - Safety first - optional binding with if let - Networking, AlamoFire, SwiftyJSON - "if let all the things"
-- Dependency management - carthage
+- New patterns - Safety first - optional binding with if let - AFNetworking, AlamoFire, SwiftyJSON
+- Dependency management - Carthage
+
+> `if let` all the things
 
 ## Design is Not for Designers - Joe Cieplinski
 
@@ -56,7 +59,7 @@
 - we are more similar to architects
 - for whom do we design? Not designers but everyday people - they just want the app to work
 - dribbble should not be just a portfolio page
-- designers tend not to be as collaborative as developers - no equivalent to github and stack overflow - 
+- designers tend not to be as collaborative as developers - no equivalent to Github and Stack Overflow - 
 - read Marc Edwards blog for example of a designer sharing info
 - wants to see designers share more info!
 - Questions to ask: What does it do??? Is that something we should build??
@@ -106,7 +109,9 @@
 
 ### Mastery
 
-- "Fun is just another word for learning under optimal conditions" - Ralph Koster
+> Fun is just another word for learning under optimal conditions
+> -- <cite>Ralph Koster</cite>
+
 - relaxed alertness - the more you are stressed , the less you learn - moderate to high challenge - sense of well-being
 - the compulsion loop - Stephanie Morgan - kill monsters -> Win gold -> Buy stuff -> repeat - content creation feedback loop
 
@@ -586,11 +591,11 @@
 - givens
 - humans need not apply - cgp grey 
 - world modeling video 
-- github eldragonrojo/slides
+- <https://github.com/ElDragonRojo/slides>
 - the fermi paradox - where is everybody? The great filter
 - world modeling - what do we do?
 - startup earth
-- lots of slides - just listening
+- *lots of slides and just listening to this awesome talk*
 
 ## Humanities x Technology - Ashley Nelson-Hornstein @ashleynh
 
