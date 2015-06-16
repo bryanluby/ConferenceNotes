@@ -1,4 +1,4 @@
-# AltConf Notes
+# AltConf 2015 Notes
 
 ## Misc
 
