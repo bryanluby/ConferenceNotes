@@ -548,9 +548,9 @@
 - How "not" to create software
 - "software is ultimately about people"
 - Improving Team Effectiveness
-    - coordination
-    - cooperation
-    - communication
+    - coordination: activities required to manage interdependencies with the team workflow
+    - cooperation: the willful contribution of personal efforts to the completion of interdependent jobs
+    - communication: a means for enabling the more primary processes of coordination and cooperation
 - Effective communication
 - Organizational Smells
     - team within a team - a sub team forms - other people are being left out - team and project can lose perspective really fast
@@ -558,6 +558,12 @@
     - isolation - people on teams are not talking with each other at all - makes it difficult to ship - also happens when people only communicate negatively with each other
     - unreachable goal - the team will eventually fall apart - will lead to spaghetti code - unfinished components
     - black sheep - one person on your team is not who you think they are  - they are not trying to help other members of the team - they may have ulterior motives
+- [Slides](http://www.slideshare.net/micheletitolo/the-worst-code)
+- Reference Articles
+    - Processes and Attributes of Highly Effective Teams
+    - Work groups and teams in organizations
+    - The New Science of Building Great Teams
+    - Agile Software Development with Distributed Teams
 
 ## A Eulogy for Objective-C - Aaron Hillegass
 
