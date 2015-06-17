@@ -8,7 +8,7 @@
 - [How Indoor Location Will Change your User Experience](#how-indoor-location-will-change-your-user-experience)
 - [The Stylish Objective-C Developers Guide to Swift](#the-stylish-objective-c-developers-guide-to-swift)
 - [Design is Not for Designers](#design-is-not-for-designers)
-- [Objective-C++: What could possibly go wrong?](objective-c++:-what-could-possibly-go-wrong?)
+- [Objective-C++ - What could possibly go wrong](#objective-c++---what-could-possibly-go-wrong)
 - [Designing for Fun](#designing-for-fun)
 - [Choose your character](#choose-your-character)
 - [Successful Test Driven Development on iOS](#successful-test-driven-development-on-ios)
@@ -18,7 +18,7 @@
 - [The Social Coding Contract](#the-social-coding-contract)
 - [7 ways to Enrich the Tech Industry](#7-ways-to-enrich-the-tech-industry)
 - [Swift Thinking](#swift-thinking)
-- [Lessons in app PR: How to launch - Matt Ronge](#lessons-in-app-pr:-how-to-launch)
+- [Lessons in app PR - How to launch](#lessons-in-app-pr---how-to-launch)
 - [Imagine a fully diverse & inclusive world](#imagine-a-fully-diverse-&-inclusive-world)
 - [What Haskell Teaches Me About Swift](#what-haskell-teaches-me-about-swift)
 - [Building in Success with Market First Development](#building-in-success-with-market-first-development)
@@ -115,7 +115,7 @@ By *Joe Cieplinski*
 - Why does it matter? Make sure products succeed, help, and make users happy.
 - We have been building throwaway apps
 
-## Objective-C++: What could possibly go wrong?
+## Objective-C++ - What could possibly go wrong
 
 By *Peter Steinberger*
 
@@ -319,7 +319,7 @@ By *Natasha Murashev*
 - new swift error handling
 - testing - functional style can make things easier to test - @testable keyword - Quick testing framework
 
-## Lessons in app PR: How to launch
+## Lessons in app PR - How to launch
 
 By *Matt Ronge*
 
