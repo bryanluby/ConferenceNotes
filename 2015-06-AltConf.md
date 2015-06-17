@@ -1,10 +1,20 @@
 # AltConf 2015 Notes
 
+## Table of Contents
+
+- [Misc](#misc)
+- [Keynote Panel Discussion](#keynote-panel-discussion)
+- [Platforms State of the Union](#platforms-state-of-the-union)
+- [How Indoor Location Will Change your User Experience](#how-indoor-location-will-change-your-user-experience)
+- [Functional Programming in Swift](#functional-programming-in-swift---chris-eidhof)
+
 ## Misc
 
 - <http://www.github.com/flexmonkey>
 
-## Keynote panel discussion - iMore
+## Keynote Panel Discussion
+
+By *iMore*
 
 - WatchKit - watchOS
 - iPad split screen
@@ -23,7 +33,7 @@
 - iOS low power mode switch
 - watch complications
 
-## Platforms state of the union
+## Platforms State of the Union
 
 - Free native dev - only need AppleID
 - Single paid dev program!!!!!!
@@ -32,7 +42,9 @@
 - app thinning
 - *The theater I was in lost streaming connection at this point*
 
-## How indoor location will change your user experience - Scott Brewer @goawaygeek
+## How Indoor Location Will Change your User Experience
+
+By *Scott Brewer* @goawaygeek
 
 - Various location aware museum app demos - users felt closer to the works in the museum that they saw - Bluetooth beacons - Core bluetooth
 - EnsoLocate: location platform - simplifies the management of the objects in the museum space - public beta open now - "Indoor Location Made Easy" - <http://ensolocate.com>
