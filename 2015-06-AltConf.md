@@ -6,7 +6,35 @@
 - [Keynote Panel Discussion](#keynote-panel-discussion)
 - [Platforms State of the Union](#platforms-state-of-the-union)
 - [How Indoor Location Will Change your User Experience](#how-indoor-location-will-change-your-user-experience)
-- [Functional Programming in Swift](#functional-programming-in-swift---chris-eidhof)
+- [The Stylish Objective-C Developers Guide to Swift](#the-stylish-objective-c-developers-guide-to-swift)
+- [Design is Not for Designers](#design-is-not-for-designers)
+- [Objective-C++: What could possibly go wrong?](objective-c++:-what-could-possibly-go-wrong?)
+- [Designing for Fun](#designing-for-fun)
+- [Choose your character](#choose-your-character)
+- [Successful Test Driven Development on iOS](#successful-test-driven-development-on-ios)
+- [Overloading Comparison](#overloading-comparison)
+- [Making users smile, laugh, and cry](#making-users-smile,-laugh,-and-cry)
+- [An OSS Education](#an-oss-education)
+- [The Social Coding Contract](#the-social-coding-contract)
+- [7 ways to Enrich the Tech Industry](#7-ways-to-enrich-the-tech-industry)
+- [Swift Thinking](#swift-thinking)
+- [Lessons in app PR: How to launch - Matt Ronge](#lessons-in-app-pr:-how-to-launch)
+- [Imagine a fully diverse & inclusive world](#imagine-a-fully-diverse-&-inclusive-world)
+- [What Haskell Teaches Me About Swift](#what-haskell-teaches-me-about-swift)
+- [Building in Success with Market First Development](#building-in-success-with-market-first-development)
+- [Localization](#Localization)
+- [Lightning Talk - Being Nice in Open Source](#lightning-talk---being-nice-in-open-source)
+- [CoreBluetooth and You](#corebluetooth-and-you)
+- [NSFWObjectiveC](#nsfwobjectivec)
+- [RACDC](#racdc)
+- [Functional Programming in Swift](#functional-programming-in-swift)
+- [Git as a Document Format](#git-as-a-document-format)
+- [Power up your Animations!](#power-up-your-animations!)
+- [Designing Mobile Apps for Kids](#designing-mobile-apps-for-kids)
+- [The Worst Code](#the-worst-code)
+- [A Eulogy for Objective-C](#a-eulogy-for-objective-c)
+- [Planetary Engineering](#planetary-engineering)
+- [Humanities x Technology](#humanities-x-technology)
 
 ## Misc
 
@@ -51,7 +79,9 @@ By *Scott Brewer* @goawaygeek
 - Their client needed a specific problem solved and not just a generic location platform solution
 - They used almost 200 beacons that worked off a triangulation algorithm
 
-## The Stylish Objective-C Developers Guide to Swift - Jaim Zuber @jaimzuber
+## The Stylish Objective-C Developers Guide to Swift
+
+By *Jaim Zuber* @jaimzuber
 
 - Swift is ready for prime time
 - Careful with implicitly unwrapped optionals and nibs - Will crash in Swift and not objc if an outlet is nil
@@ -65,7 +95,9 @@ By *Scott Brewer* @goawaygeek
 
 > `if let` all the things
 
-## Design is Not for Designers - Joe Cieplinski
+## Design is Not for Designers
+
+By *Joe Cieplinski*
 
 - Design is problem solving - asking the right questions is more important than anything
 - we are more similar to architects
@@ -83,7 +115,9 @@ By *Scott Brewer* @goawaygeek
 - Why does it matter? Make sure products succeed, help, and make users happy.
 - We have been building throwaway apps
 
-## Objective-C++: What could possibly go wrong? - Peter Steinberger
+## Objective-C++: What could possibly go wrong?
+
+By *Peter Steinberger*
 
 - every malloc is a mistake - segfaults everywhere
 - What about Swift? Does not work directly with C++.
@@ -105,7 +139,9 @@ By *Scott Brewer* @goawaygeek
 - inline blocks - auto handler for type inference with inline block variables
 - Good lldb debugging support
 
-## Designing for Fun - Sarah Allen @mightyverse
+## Designing for Fun
+
+By *Sarah Allen* @mightyverse
 
 ### Meaning
 
@@ -135,7 +171,9 @@ By *Scott Brewer* @goawaygeek
 - build small things
 - design in collaboration with your users
 
-## Choose your character - Brianna Wu
+## Choose your character
+
+By *Brianna Wu*
 
 - Nine ways to start helping and stop hurting women in tech "follow up" from last years talk
 - Gamergate hate group aftermath
@@ -149,7 +187,9 @@ By *Scott Brewer* @goawaygeek
 - men tend to go with a technical fix to a human problem - systems set up for men, by men
 - no visibility in the media for women who play games
 
-## Successful Test Driven Development on iOS Paul Zabelin, Glen Tregoning
+## Successful Test Driven Development on iOS
+
+By *Paul Zabelin*, *Glen Tregoning*
 
 - tests become executable docs that don't get out of date
 - tdd produces great test coverage
@@ -163,7 +203,9 @@ By *Scott Brewer* @goawaygeek
 - avoid complex mocking - if tests get too complex, consider moving your test to another level - unit -> integration -> acceptance
 - indigogo/simulatorsetup github repo
 
-## Overloading Comparison - Ray Wenderlich
+## Overloading Comparison
+
+By *Ray Wenderlich*
 
 - Twitter success parade
 - comparison robs of achievement
@@ -176,7 +218,9 @@ By *Scott Brewer* @goawaygeek
 - we are here to learn
 - don't compare, learn from others
 
-## Making users smile, laugh, and cry - Maxim Cramer
+## Making users smile, laugh, and cry
+
+By *Maxim Cramer*
 
 - meaning - people want a sense of direction in their life
 - engagement - get lost in your work - flow
@@ -187,14 +231,18 @@ By *Scott Brewer* @goawaygeek
 - visceral, behavioral, reflective
 - visceral - gut instinct to things
 
-## An OSS Education - Samuel Giddins
+## An OSS Education
+
+By *Samuel Giddins*
 
 - amazed at a powerful tool like RestKit was free to use
 - in open source, you don't need a set of prerequisites to contribute
 - open source was the way he introduced himself as a developer to the community
 - loves open source but loves where it took him: both as a dev and as a human being
 
-## The Social Coding Contract - Justin Searls
+## The Social Coding Contract
+
+By *Justin Searls*
 
 - Open source is good right?
 
@@ -227,7 +275,9 @@ By *Scott Brewer* @goawaygeek
 - we need more live chat, live examples and pairing sessions
 - most open source tools are a product of web development - not ideal for iOS philosophy
 
-## 7 ways to Enrich the Tech Industry - Aleen Simms
+## 7 ways to Enrich the Tech Industry
+
+By *Aleen Simms*
 
 - not a lot of women or diversity in the industry
 - 15% of technical roles are women
@@ -247,7 +297,9 @@ By *Scott Brewer* @goawaygeek
 6. be our ambassador - there are people who will listen only to you but not people from underrepresented groups - stand up with your support - add your voice
 7. don't' hesitate to apologize - a sincere apology is to take responsibility for your actions
 
-## Swift Thinking - Natasha Murashev
+## Swift Thinking
+
+By *Natasha Murashev*
 
 ### Learning
 
@@ -267,7 +319,9 @@ By *Scott Brewer* @goawaygeek
 - new swift error handling
 - testing - functional style can make things easier to test - @testable keyword - Quick testing framework
 
-## Lessons in app PR: How to launch - Matt Ronge
+## Lessons in app PR: How to launch
+
+By *Matt Ronge*
 
 - Launch starts at day 0
 - how is what you are doing better or different than what is already out there
@@ -280,7 +334,9 @@ By *Scott Brewer* @goawaygeek
 - Send individual emails and not mass emails to all contacts - make the email short! the contact can follow up for more details later if necessary
 - book recommendation: the burned out bloggers guide to PR
 
-## Imagine a fully diverse & inclusive world - Melinda Briana Epler @changecatalysts
+## Imagine a fully diverse & inclusive world
+
+By *Melinda Briana Epler* @changecatalysts
 
 - What happened to women in computer science?
 - What could go wrong when we don't have diverse teams? Products built by men can be poorly designed when used by women.
@@ -288,7 +344,9 @@ By *Scott Brewer* @goawaygeek
 - What is inclusion? Inviting people to speak, participate and lead.
 - What could go right? Numerous examples shown on slide of successful women-run companies.
 
-## What Haskell Teaches Me About Swift - Abizer Nasir @abizern
+## What Haskell Teaches Me About Swift
+
+By *Abizer Nasir* @abizern
 
 - Why Haskell? Learning Haskell will make you a better swift programmer!
 - Type inference
@@ -312,7 +370,9 @@ By *Scott Brewer* @goawaygeek
 - With Cocoa now, we have the choice of two different approaches to the same problem space 
 - Don't confuse complexity for unfamiliarity!
 
-## Building in Success with Market First Development - Charles Perry @DazeEnd
+## Building in Success with Market First Development
+
+By *Charles Perry* @DazeEnd
 
 - 0.01% of devs consider their apps to be financially successful
 - devs only think like engineers - think like entrepreneurs
@@ -352,7 +412,9 @@ By *Scott Brewer* @goawaygeek
 
 - Competition is fierce in the App Store so you need to execute well
 
-## Localization - Laura Savino 
+## Localization
+
+By *Laura Savino*
 
 ### Incorrect Assumptions
 
@@ -373,7 +435,9 @@ By *Scott Brewer* @goawaygeek
 - run exportLocalizations to check errors - consult man genstrings page for error descriptions
 - treat strings & xliff files as build products - be careful manually editing them
 
-## Lightning Talk - Being Nice in Open Source - Orta Therox
+## Lightning Talk - Being Nice in Open Source
+
+By *Orta Therox*
 
 - nice has different meanings
 - normal person + perceived privacy + yes people audience = total jerkface
@@ -386,7 +450,9 @@ By *Scott Brewer* @goawaygeek
 - Lets be positive - say something nice about a project every single day
 - @mostgood - @judychen
 
-## CoreBluetooth and You - Jon Shier
+## CoreBluetooth and You
+
+By *Jon Shier*
 
 - low power, on the order of months for a single cell battery
 - designed for small bits of data at low power
@@ -422,7 +488,9 @@ By *Scott Brewer* @goawaygeek
     - Demo app is on Github
     - Light blue app for iOS
 
-## NSFWObjectiveC - Sash Zats
+## NSFWObjectiveC
+
+By *Sash Zats*
 
 - Explore objective-c runtime
 - Creating classes at runtime
@@ -515,19 +583,25 @@ By *Scott Brewer* @goawaygeek
 - They want to see higher kinded types - can't write a protocol that defines a signal - want to see better debugging, visualization of stack traces
 - look at RAC 3 changelog for help when upgrading to 3 - upgrade in a piecemeal fashion - 2.0 will still work fine
 
-## Functional Programming in Swift - Chris Eidhof
+## Functional Programming in Swift
+
+By *Chris Eidhof*
 
 - Mostly a (*Frakking awesome!*) live coding demo of functional view controllers
 - [Example Code](https://github.com/chriseidhof/github-issues)
 
-## Git as a Document Format - Will Shipley
+## Git as a Document Format
+
+By *Will Shipley*
 
 - He went into a long history of file formats of Cocoa - Check the slides that are (posted?)
 - Demoed app that uses git as a document format with full persistent undo/redo stack
 - Use libgit and objective-git if you want to implement something similar yourself.
 - Sample code?
 
-## Power up your Animations! - Marin Todorov @icanzilb
+## Power up your Animations!
+
+By *Marin Todorov* @icanzilb
 
 - iOS 9
     - `UIViewAnimationOptions` are now `OptionSetType` - can use an empty set or combination of options
@@ -539,7 +613,9 @@ By *Scott Brewer* @goawaygeek
 - Think out of the box - combine `UIView` snapshotting with custom view controller transition - grab a tableview cell snapshot - core image transitions
 - [Easy animation framework on Github](https://github.com/icanzilb/EasyAnimation)
 
-## Designing Mobile Apps for Kids - Kathryn Rotondo @krotondo
+## Designing Mobile Apps for Kids
+
+By *Kathryn Rotondo* @krotondo
 
 - What are kids? Young kids, kids under the age of 18, still maturing, etc.
 - 5 Patterns
@@ -555,7 +631,9 @@ By *Scott Brewer* @goawaygeek
     - Moms with Apps
     - Conferences: Dust or Magic, Tech with kids, The Kids Want Mobile
 
-## The Worst Code - Michele Titolo @MicheleTitolo
+## The Worst Code
+
+By *Michele Titolo* @MicheleTitolo
 
 - How "not" to create software
 - "software is ultimately about people"
@@ -577,7 +655,9 @@ By *Scott Brewer* @goawaygeek
     - The New Science of Building Great Teams
     - Agile Software Development with Distributed Teams
 
-## A Eulogy for Objective-C - Aaron Hillegass
+## A Eulogy for Objective-C
+
+By *Aaron Hillegass*
 
 - Loves objc!
 - Simula 67 first object oriented language
@@ -608,7 +688,9 @@ By *Scott Brewer* @goawaygeek
 
 > Objective-C is not really dead!
 
-## Planetary Engineering - Mike Lee @bmf
+## Planetary Engineering
+
+By *Mike Lee* @bmf
 
 - givens
 - humans need not apply - cgp grey 
@@ -619,7 +701,9 @@ By *Scott Brewer* @goawaygeek
 - startup earth
 - *lots of slides and just listening to this awesome talk*
 
-## Humanities x Technology - Ashley Nelson-Hornstein @ashleynh
+## Humanities x Technology
+
+By *Ashley Nelson-Hornstein* @ashleynh
 
 - lack of knowledge of device specs
 - the intersections between technology and liberal arts
