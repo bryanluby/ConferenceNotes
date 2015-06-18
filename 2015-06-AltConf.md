@@ -13,23 +13,23 @@
 - [Choose your character](#choose-your-character)
 - [Successful Test Driven Development on iOS](#successful-test-driven-development-on-ios)
 - [Overloading Comparison](#overloading-comparison)
-- [Making users smile, laugh, and cry](#making-users-smile,-laugh,-and-cry)
+- [Making users smile laugh and cry](#making-users-smile-laugh-and-cry)
 - [An OSS Education](#an-oss-education)
 - [The Social Coding Contract](#the-social-coding-contract)
 - [7 ways to Enrich the Tech Industry](#7-ways-to-enrich-the-tech-industry)
 - [Swift Thinking](#swift-thinking)
 - [Lessons in app PR - How to launch](#lessons-in-app-pr---how-to-launch)
-- [Imagine a fully diverse & inclusive world](#imagine-a-fully-diverse-&-inclusive-world)
+- [Imagine a fully diverse and inclusive world](#imagine-a-fully-diverse-and-inclusive-world)
 - [What Haskell Teaches Me About Swift](#what-haskell-teaches-me-about-swift)
 - [Building in Success with Market First Development](#building-in-success-with-market-first-development)
-- [Localization](#Localization)
+- [Localization](#localization)
 - [Lightning Talk - Being Nice in Open Source](#lightning-talk---being-nice-in-open-source)
 - [CoreBluetooth and You](#corebluetooth-and-you)
 - [NSFWObjectiveC](#nsfwobjectivec)
 - [RACDC](#racdc)
 - [Functional Programming in Swift](#functional-programming-in-swift)
 - [Git as a Document Format](#git-as-a-document-format)
-- [Power up your Animations!](#power-up-your-animations!)
+- [Power up your Animations](#power-up-your-animations)
 - [Designing Mobile Apps for Kids](#designing-mobile-apps-for-kids)
 - [The Worst Code](#the-worst-code)
 - [A Eulogy for Objective-C](#a-eulogy-for-objective-c)
@@ -218,7 +218,7 @@ By *Ray Wenderlich*
 - we are here to learn
 - don't compare, learn from others
 
-## Making users smile, laugh, and cry
+## Making users smile laugh and cry
 
 By *Maxim Cramer*
 
@@ -334,7 +334,7 @@ By *Matt Ronge*
 - Send individual emails and not mass emails to all contacts - make the email short! the contact can follow up for more details later if necessary
 - book recommendation: the burned out bloggers guide to PR
 
-## Imagine a fully diverse & inclusive world
+## Imagine a fully diverse and inclusive world
 
 By *Melinda Briana Epler* @changecatalysts
 
@@ -599,7 +599,7 @@ By *Will Shipley*
 - Use libgit and objective-git if you want to implement something similar yourself.
 - Sample code?
 
-## Power up your Animations!
+## Power up your Animations
 
 By *Marin Todorov* @icanzilb
 
