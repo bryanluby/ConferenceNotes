@@ -72,7 +72,7 @@ By *iMore*
 
 ## How Indoor Location Will Change your User Experience
 
-By *Scott Brewer* @goawaygeek
+By *Scott Brewer* [@goawaygeek](https://twitter.com/goawaygeek)
 
 - Various location aware museum app demos - users felt closer to the works in the museum that they saw - Bluetooth beacons - Core bluetooth
 - EnsoLocate: location platform - simplifies the management of the objects in the museum space - public beta open now - "Indoor Location Made Easy" - <http://ensolocate.com>
@@ -81,7 +81,7 @@ By *Scott Brewer* @goawaygeek
 
 ## The Stylish Objective-C Developers Guide to Swift
 
-By *Jaim Zuber* @jaimzuber
+By *Jaim Zuber* [@jaimzuber](https://twitter.com/jaimzuber)
 
 - Swift is ready for prime time
 - Careful with implicitly unwrapped optionals and nibs - Will crash in Swift and not objc if an outlet is nil
@@ -141,7 +141,7 @@ By *Peter Steinberger*
 
 ## Designing for Fun
 
-By *Sarah Allen* @mightyverse
+By *Sarah Allen* [@mightyverse](https://twitter.com/mightyverse)
 
 ### Meaning
 
@@ -336,7 +336,7 @@ By *Matt Ronge*
 
 ## Imagine a fully diverse and inclusive world
 
-By *Melinda Briana Epler* @changecatalysts
+By *Melinda Briana Epler* [@changecatalysts](https://twitter.com/changecatalysts)
 
 - What happened to women in computer science?
 - What could go wrong when we don't have diverse teams? Products built by men can be poorly designed when used by women.
@@ -346,7 +346,7 @@ By *Melinda Briana Epler* @changecatalysts
 
 ## What Haskell Teaches Me About Swift
 
-By *Abizer Nasir* @abizern
+By *Abizer Nasir* [@abizern](https://twitter.com/abizern)
 
 - Why Haskell? Learning Haskell will make you a better swift programmer!
 - Type inference
@@ -372,7 +372,7 @@ By *Abizer Nasir* @abizern
 
 ## Building in Success with Market First Development
 
-By *Charles Perry* @DazeEnd
+By *Charles Perry* [@DazeEnd](https://twitter.com/DazeEnd)
 
 - 0.01% of devs consider their apps to be financially successful
 - devs only think like engineers - think like entrepreneurs
@@ -601,7 +601,7 @@ By *Will Shipley*
 
 ## Power up your Animations
 
-By *Marin Todorov* @icanzilb
+By *Marin Todorov* [@icanzilb](https://twitter.com/icanzilb)
 
 - iOS 9
     - `UIViewAnimationOptions` are now `OptionSetType` - can use an empty set or combination of options
@@ -615,7 +615,7 @@ By *Marin Todorov* @icanzilb
 
 ## Designing Mobile Apps for Kids
 
-By *Kathryn Rotondo* @krotondo
+By *Kathryn Rotondo* [@krotondo](https://twitter.com/krotondo)
 
 - What are kids? Young kids, kids under the age of 18, still maturing, etc.
 - 5 Patterns
@@ -633,7 +633,7 @@ By *Kathryn Rotondo* @krotondo
 
 ## The Worst Code
 
-By *Michele Titolo* @MicheleTitolo
+By *Michele Titolo* [@MicheleTitolo](https://twitter.com/MicheleTitolo)
 
 - How "not" to create software
 - "software is ultimately about people"
@@ -690,7 +690,7 @@ By *Aaron Hillegass*
 
 ## Planetary Engineering
 
-By *Mike Lee* @bmf
+By *Mike Lee* [@bmf](https://twitter.com/bmf)
 
 - givens
 - humans need not apply - cgp grey 
@@ -703,7 +703,7 @@ By *Mike Lee* @bmf
 
 ## Humanities x Technology
 
-By *Ashley Nelson-Hornstein* @ashleynh
+By *Ashley Nelson-Hornstein* [@ashleynh](https://twitter.com/ashleynh)
 
 - lack of knowledge of device specs
 - the intersections between technology and liberal arts
