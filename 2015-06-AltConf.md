@@ -1,5 +1,7 @@
 # AltConf 2015 Notes
 
+<http://altconf.com>
+
 ## Table of Contents
 
 - [Misc](#misc)

@@ -1,5 +1,7 @@
 # CocoaConf Chicago 2014 Notes
 
+<http://cocoaconf.com/chicago-2014/home>
+
 # AVFoundation Film School - Chris Adamson
 
 - AVFoundation Tightly coupled with core graphics and core animation

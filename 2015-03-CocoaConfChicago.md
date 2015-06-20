@@ -1,5 +1,7 @@
 # CocoaConf Chicago 2015 Notes
 
+<http://cocoaconf.com/chicago-2015/home>
+
 ## Links
 
 - http://t.co/Vd2OieNz3d - midi demo
