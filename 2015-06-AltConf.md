@@ -100,7 +100,7 @@ By *Jaim Zuber* [@jaimzuber](https://twitter.com/jaimzuber)
 
 ## Design is Not for Designers
 
-By *Joe Cieplinski*
+By *Joe Cieplinski* [@jcieplinski](https://twitter.com/jcieplinski)
 
 - Design is problem solving - asking the right questions is more important than anything
 - we are more similar to architects
@@ -120,7 +120,7 @@ By *Joe Cieplinski*
 
 ## Objective-C++ - What could possibly go wrong
 
-By *Peter Steinberger*
+By *Peter Steinberger* [@steipete](https://twitter.com/steipete)
 
 - every malloc is a mistake - segfaults everywhere
 - What about Swift? Does not work directly with C++.
@@ -176,7 +176,7 @@ By *Sarah Allen* [@mightyverse](https://twitter.com/mightyverse)
 
 ## Choose your character
 
-By *Brianna Wu*
+By *Brianna Wu* [@Spacekatgal](https://twitter.com/Spacekatgal)
 
 - Nine ways to start helping and stop hurting women in tech "follow up" from last years talk
 - Gamergate hate group aftermath
@@ -192,7 +192,7 @@ By *Brianna Wu*
 
 ## Successful Test Driven Development on iOS
 
-By *Paul Zabelin*, *Glen Tregoning*
+By *Paul Zabelin* [@iospaulz](https://twitter.com/iospaulz), *Glen Tregoning* [@glent](https://twitter.com/glent)
 
 - tests become executable docs that don't get out of date
 - tdd produces great test coverage
@@ -208,7 +208,7 @@ By *Paul Zabelin*, *Glen Tregoning*
 
 ## Overloading Comparison
 
-By *Ray Wenderlich*
+By *Ray Wenderlich* [@rwenderlich](https://twitter.com/rwenderlich)
 
 - Twitter success parade
 - comparison robs of achievement
@@ -223,7 +223,7 @@ By *Ray Wenderlich*
 
 ## Making users smile laugh and cry
 
-By *Maxim Cramer*
+By *Maxim Cramer* [@mennenia](https://twitter.com/mennenia)
 
 - meaning - people want a sense of direction in their life
 - engagement - get lost in your work - flow
@@ -236,7 +236,7 @@ By *Maxim Cramer*
 
 ## An OSS Education
 
-By *Samuel Giddins*
+By *Samuel Giddins* [@segiddins](https://twitter.com/segiddins)
 
 - amazed at a powerful tool like RestKit was free to use
 - in open source, you don't need a set of prerequisites to contribute
@@ -245,7 +245,7 @@ By *Samuel Giddins*
 
 ## The Social Coding Contract
 
-By *Justin Searls*
+By *Justin Searls* [@searls](https://twitter.com/searls)
 
 - Open source is good right?
 
@@ -280,7 +280,7 @@ By *Justin Searls*
 
 ## 7 ways to Enrich the Tech Industry
 
-By *Aleen Simms*
+By *Aleen Simms* [@Aleen](https://twitter.com/Aleen)
 
 - not a lot of women or diversity in the industry
 - 15% of technical roles are women
@@ -302,7 +302,7 @@ By *Aleen Simms*
 
 ## Swift Thinking
 
-By *Natasha Murashev*
+By *Natasha Murashev* [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 
 ### Learning
 
@@ -324,7 +324,7 @@ By *Natasha Murashev*
 
 ## Lessons in app PR - How to launch
 
-By *Matt Ronge*
+By *Matt Ronge* [@mronge](https://twitter.com/mronge)
 
 - Launch starts at day 0
 - how is what you are doing better or different than what is already out there
@@ -417,7 +417,7 @@ By *Charles Perry* [@DazeEnd](https://twitter.com/DazeEnd)
 
 ## Localization
 
-By *Laura Savino*
+By *Laura Savino* [@savinola](https://twitter.com/savinola)
 
 ### Incorrect Assumptions
 
@@ -440,7 +440,7 @@ By *Laura Savino*
 
 ## Lightning Talk - Being Nice in Open Source
 
-By *Orta Therox*
+By *Orta Therox* [@orta](https://twitter.com/orta)
 
 - nice has different meanings
 - normal person + perceived privacy + yes people audience = total jerkface
@@ -455,7 +455,7 @@ By *Orta Therox*
 
 ## CoreBluetooth and You
 
-By *Jon Shier*
+By *Jon Shier* [Jon Shier](https://jonshier.com)
 
 - low power, on the order of months for a single cell battery
 - designed for small bits of data at low power
@@ -493,7 +493,7 @@ By *Jon Shier*
 
 ## NSFWObjectiveC
 
-By *Sash Zats*
+By *Sash Zats* [@zats](https://twitter.com/zats)
 
 - Explore objective-c runtime
 - Creating classes at runtime
@@ -516,7 +516,7 @@ By *Sash Zats*
 
 ## RACDC
 
-*RACDC was not part of AltConf but took place during the same week.*
+*RACDC was not part of AltConf but took place at GitHub during the same week.*
 
 ### Intro
 
@@ -596,14 +596,14 @@ By *Javier Soto* [@Javi](https://twitter.com/Javi)
 
 ## Functional Programming in Swift
 
-By *Chris Eidhof*
+By *Chris Eidhof* [@chriseidhof](https://twitter.com/chriseidhof)
 
 - Mostly a (*Frakking awesome!*) live coding demo of functional view controllers
 - [Example Code](https://github.com/chriseidhof/github-issues)
 
 ## Git as a Document Format
 
-By *Will Shipley*
+By *Will Shipley* [@wilshipley](https://twitter.com/wilshipley)
 
 - He went into a long history of file formats of Cocoa - Check the slides that are (posted?)
 - Demoed app that uses git as a document format with full persistent undo/redo stack
@@ -668,7 +668,7 @@ By *Michele Titolo* [@MicheleTitolo](https://twitter.com/MicheleTitolo)
 
 ## A Eulogy for Objective-C
 
-By *Aaron Hillegass*
+By *Aaron Hillegass* [@AaronHillegass](https://twitter.com/AaronHillegass)
 
 - Loves objc!
 - Simula 67 first object oriented language
