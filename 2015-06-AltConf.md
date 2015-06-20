@@ -27,6 +27,9 @@
 - [CoreBluetooth and You](#corebluetooth-and-you)
 - [NSFWObjectiveC](#nsfwobjectivec)
 - [RACDC](#racdc)
+	- [Intro](#intro)
+	- [Functional programming in an imperative world](#functional-programming-in-an-imperative-world)
+	- [RAC 3 - A Real World Use Case aka ReactiveChess](#rac-3---a-real-world-use-case-aka-reactivechess)
 - [Functional Programming in Swift](#functional-programming-in-swift)
 - [Git as a Document Format](#git-as-a-document-format)
 - [Power up your Animations](#power-up-your-animations)
@@ -68,7 +71,6 @@ By *iMore*
 - 1.3 gigs free space needed to install iOS 9
 - Hopes for faster iOS adoption
 - app thinning
-- *The theater I was in lost streaming connection at this point*
 
 ## How Indoor Location Will Change your User Experience
 
@@ -511,9 +513,13 @@ By *Sash Zats*
     - Not possible to have your own
 - Can create protocols at runtime!
 
-## RACDC 
+## RACDC
 
-### Intro - Justin Spahr-Summers
+*RACDC was not part of AltConf but took place during the same week.*
+
+### Intro
+
+By *Justin Spahr-Summers* [@jspahrsummers](https://twitter.com/jspahrsummers)
 
 - What is RAC?
     - Not just KVO - KVO has been a means to an end
@@ -543,7 +549,9 @@ By *Sash Zats*
     - Need to finish long-form documentation before RAC 3 release
     - contribute? email justin and join slack channel
 
-### Functional programming in an imperative world - @NachoSoto
+### Functional programming in an imperative world
+
+By *@NachoSoto* [@NachoSoto](https://twitter.com/NachoSoto)
 
 - Live demos comparing imperative vs frp approach
 - What is state? Data over time.
@@ -551,7 +559,9 @@ By *Sash Zats*
 - FRP - challenge is that apps need some state - allows you to represent state by making it explicit - time becomes first class citizen
 - rxjs video (Netflix)
 
-### RAC 3 - A Real World Use Case aka ReactiveChess - Javier Soto @Javi
+### RAC 3 - A Real World Use Case aka ReactiveChess
+
+By *Javier Soto* [@Javi](https://twitter.com/Javi)
 
 #### Wins
 
