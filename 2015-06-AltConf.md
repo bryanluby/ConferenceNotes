@@ -30,6 +30,7 @@
 	- [Intro](#intro)
 	- [Functional programming in an imperative world](#functional-programming-in-an-imperative-world)
 	- [RAC 3 - A Real World Use Case aka ReactiveChess](#rac-3---a-real-world-use-case-aka-reactivechess)
+	- [Panel Discussion](#panel-discussion)
 - [Functional Programming in Swift](#functional-programming-in-swift)
 - [Git as a Document Format](#git-as-a-document-format)
 - [Power up your Animations](#power-up-your-animations)
