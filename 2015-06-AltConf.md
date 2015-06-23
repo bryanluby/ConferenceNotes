@@ -67,6 +67,8 @@ By *iMore*
 - iOS low power mode switch
 - watch complications
 
+---
+
 ## Platforms State of the Union
 
 - Free native dev - only need AppleID
@@ -74,6 +76,8 @@ By *iMore*
 - 1.3 gigs free space needed to install iOS 9
 - Hopes for faster iOS adoption
 - app thinning
+
+---
 
 ## How Indoor Location Will Change your User Experience
 
@@ -83,6 +87,8 @@ By *Scott Brewer* [@goawaygeek](https://twitter.com/goawaygeek)
 - EnsoLocate: location platform - simplifies the management of the objects in the museum space - public beta open now - "Indoor Location Made Easy" - <http://ensolocate.com>
 - Their client needed a specific problem solved and not just a generic location platform solution
 - They used almost 200 beacons that worked off a triangulation algorithm
+
+---
 
 ## The Stylish Objective-C Developers Guide to Swift
 
@@ -99,6 +105,8 @@ By *Jaim Zuber* [@jaimzuber](https://twitter.com/jaimzuber)
 - Dependency management - Carthage
 
 > `if let` all the things
+
+---
 
 ## Design is Not for Designers
 
@@ -119,6 +127,8 @@ By *Joe Cieplinski* [@jcieplinski](https://twitter.com/jcieplinski)
     - Not good - Flash over substance - video on websites - surprise but no delight - mac pro website messes with the typical scrolling experience - "highjacked scrolling" - rate my app
 - Why does it matter? Make sure products succeed, help, and make users happy.
 - We have been building throwaway apps
+
+---
 
 ## Objective-C++ - What could possibly go wrong
 
@@ -143,6 +153,8 @@ By *Peter Steinberger* [@steipete](https://twitter.com/steipete)
 - nil safety - vector allows nullptr
 - inline blocks - auto handler for type inference with inline block variables
 - Good lldb debugging support
+
+---
 
 ## Designing for Fun
 
@@ -176,6 +188,8 @@ By *Sarah Allen* [@mightyverse](https://twitter.com/mightyverse)
 - build small things
 - design in collaboration with your users
 
+---
+
 ## Choose your character
 
 By *Brianna Wu* [@Spacekatgal](https://twitter.com/Spacekatgal)
@@ -191,6 +205,8 @@ By *Brianna Wu* [@Spacekatgal](https://twitter.com/Spacekatgal)
 - @freebsdgirl
 - men tend to go with a technical fix to a human problem - systems set up for men, by men
 - no visibility in the media for women who play games
+
+---
 
 ## Successful Test Driven Development on iOS
 
@@ -208,6 +224,8 @@ By *Paul Zabelin* [@iospaulz](https://twitter.com/iospaulz), *Glen Tregoning* [@
 - avoid complex mocking - if tests get too complex, consider moving your test to another level - unit -> integration -> acceptance
 - indigogo/simulatorsetup github repo
 
+---
+
 ## Overloading Comparison
 
 By *Ray Wenderlich* [@rwenderlich](https://twitter.com/rwenderlich)
@@ -223,6 +241,8 @@ By *Ray Wenderlich* [@rwenderlich](https://twitter.com/rwenderlich)
 - we are here to learn
 - don't compare, learn from others
 
+---
+
 ## Making users smile laugh and cry
 
 By *Maxim Cramer* [@mennenia](https://twitter.com/mennenia)
@@ -236,6 +256,8 @@ By *Maxim Cramer* [@mennenia](https://twitter.com/mennenia)
 - visceral, behavioral, reflective
 - visceral - gut instinct to things
 
+---
+
 ## An OSS Education
 
 By *Samuel Giddins* [@segiddins](https://twitter.com/segiddins)
@@ -244,6 +266,8 @@ By *Samuel Giddins* [@segiddins](https://twitter.com/segiddins)
 - in open source, you don't need a set of prerequisites to contribute
 - open source was the way he introduced himself as a developer to the community
 - loves open source but loves where it took him: both as a dev and as a human being
+
+---
 
 ## The Social Coding Contract
 
@@ -280,6 +304,8 @@ By *Justin Searls* [@searls](https://twitter.com/searls)
 - we need more live chat, live examples and pairing sessions
 - most open source tools are a product of web development - not ideal for iOS philosophy
 
+---
+
 ## 7 ways to Enrich the Tech Industry
 
 By *Aleen Simms* [@Aleen](https://twitter.com/Aleen)
@@ -301,6 +327,8 @@ By *Aleen Simms* [@Aleen](https://twitter.com/Aleen)
 5. pay attention to your language - alternative words lame: slow, crazy:unrealistic, turn a blind eye: they were ignorant
 6. be our ambassador - there are people who will listen only to you but not people from underrepresented groups - stand up with your support - add your voice
 7. don't' hesitate to apologize - a sincere apology is to take responsibility for your actions
+
+---
 
 ## Swift Thinking
 
@@ -324,6 +352,8 @@ By *Natasha Murashev* [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 - new swift error handling
 - testing - functional style can make things easier to test - @testable keyword - Quick testing framework
 
+---
+
 ## Lessons in app PR - How to launch
 
 By *Matt Ronge* [@mronge](https://twitter.com/mronge)
@@ -339,6 +369,8 @@ By *Matt Ronge* [@mronge](https://twitter.com/mronge)
 - Send individual emails and not mass emails to all contacts - make the email short! the contact can follow up for more details later if necessary
 - book recommendation: the burned out bloggers guide to PR
 
+---
+
 ## Imagine a fully diverse and inclusive world
 
 By *Melinda Briana Epler* [@changecatalysts](https://twitter.com/changecatalysts)
@@ -348,6 +380,8 @@ By *Melinda Briana Epler* [@changecatalysts](https://twitter.com/changecatalysts
 - What is diversity? Inviting people to the table.
 - What is inclusion? Inviting people to speak, participate and lead.
 - What could go right? Numerous examples shown on slide of successful women-run companies.
+
+---
 
 ## What Haskell Teaches Me About Swift
 
@@ -374,6 +408,8 @@ By *Abizer Nasir* [@abizern](https://twitter.com/abizern)
 - Books: Learn you a Haskell for Great Good - Real World Haskell - Functional Programming in Swift - Maybe Haskell by Pat Brisbin
 - With Cocoa now, we have the choice of two different approaches to the same problem space 
 - Don't confuse complexity for unfamiliarity!
+
+---
 
 ## Building in Success with Market First Development
 
@@ -417,6 +453,8 @@ By *Charles Perry* [@DazeEnd](https://twitter.com/DazeEnd)
 
 - Competition is fierce in the App Store so you need to execute well
 
+---
+
 ## Localization
 
 By *Laura Savino* [@savinola](https://twitter.com/savinola)
@@ -440,6 +478,8 @@ By *Laura Savino* [@savinola](https://twitter.com/savinola)
 - run exportLocalizations to check errors - consult man genstrings page for error descriptions
 - treat strings & xliff files as build products - be careful manually editing them
 
+---
+
 ## Lightning Talk - Being Nice in Open Source
 
 By *Orta Therox* [@orta](https://twitter.com/orta)
@@ -454,6 +494,8 @@ By *Orta Therox* [@orta](https://twitter.com/orta)
 - being nice is actually hard
 - Lets be positive - say something nice about a project every single day
 - @mostgood - @judychen
+
+---
 
 ## CoreBluetooth and You
 
@@ -493,6 +535,8 @@ By *Jon Shier* [Jon Shier](https://jonshier.com)
     - Demo app is on Github
     - Light blue app for iOS
 
+---
+
 ## NSFWObjectiveC
 
 By *Sash Zats* [@zats](https://twitter.com/zats)
@@ -515,6 +559,8 @@ By *Sash Zats* [@zats](https://twitter.com/zats)
     - Many C apis are still not matched with objc ones
     - Not possible to have your own
 - Can create protocols at runtime!
+
+---
 
 ## RACDC
 
@@ -552,6 +598,8 @@ By *Justin Spahr-Summers* [@jspahrsummers](https://twitter.com/jspahrsummers)
     - Need to finish long-form documentation before RAC 3 release
     - contribute? email justin and join slack channel
 
+---
+
 ### Functional programming in an imperative world
 
 By *@NachoSoto* [@NachoSoto](https://twitter.com/NachoSoto)
@@ -561,6 +609,8 @@ By *@NachoSoto* [@NachoSoto](https://twitter.com/NachoSoto)
 - Simple vs easy - we tend reach for the easy which magnifies complexity
 - FRP - challenge is that apps need some state - allows you to represent state by making it explicit - time becomes first class citizen
 - rxjs video (Netflix)
+
+---
 
 ### RAC 3 - A Real World Use Case aka ReactiveChess
 
@@ -585,6 +635,8 @@ By *Javier Soto* [@Javi](https://twitter.com/Javi)
     - created an enum conforming to error type for different types of API errors
 - Custom RAC operators - log() - |>
 
+---
+
 ### Panel Discussion
 
 - Swift error handling has less type information - no plans to integrate Swift error handling
@@ -596,12 +648,16 @@ By *Javier Soto* [@Javi](https://twitter.com/Javi)
 - They want to see higher kinded types - can't write a protocol that defines a signal - want to see better debugging, visualization of stack traces
 - look at RAC 3 changelog for help when upgrading to 3 - upgrade in a piecemeal fashion - 2.0 will still work fine
 
+---
+
 ## Functional Programming in Swift
 
 By *Chris Eidhof* [@chriseidhof](https://twitter.com/chriseidhof)
 
 - Mostly a (*Frakking awesome!*) live coding demo of functional view controllers
 - [Example Code](https://github.com/chriseidhof/github-issues)
+
+---
 
 ## Git as a Document Format
 
@@ -611,6 +667,8 @@ By *Will Shipley* [@wilshipley](https://twitter.com/wilshipley)
 - Demoed app that uses git as a document format with full persistent undo/redo stack
 - Use libgit and objective-git if you want to implement something similar yourself.
 - Sample code?
+
+---
 
 ## Power up your Animations
 
@@ -625,6 +683,8 @@ By *Marin Todorov* [@icanzilb](https://twitter.com/icanzilb)
 - Try new layers - many more than `CALayer` and `CAShapeLayer` - `CAReplicatorLayer`
 - Think out of the box - combine `UIView` snapshotting with custom view controller transition - grab a tableview cell snapshot - core image transitions
 - [Easy animation framework on Github](https://github.com/icanzilb/EasyAnimation)
+
+---
 
 ## Designing Mobile Apps for Kids
 
@@ -643,6 +703,8 @@ By *Kathryn Rotondo* [@krotondo](https://twitter.com/krotondo)
     - Apple guides - parental gates
     - Moms with Apps
     - Conferences: Dust or Magic, Tech with kids, The Kids Want Mobile
+
+---
 
 ## The Worst Code
 
@@ -667,6 +729,8 @@ By *Michele Titolo* [@MicheleTitolo](https://twitter.com/MicheleTitolo)
     - Work groups and teams in organizations
     - The New Science of Building Great Teams
     - Agile Software Development with Distributed Teams
+
+---
 
 ## A Eulogy for Objective-C
 
@@ -701,6 +765,8 @@ By *Aaron Hillegass* [@AaronHillegass](https://twitter.com/AaronHillegass)
 
 > Objective-C is not really dead!
 
+---
+
 ## Planetary Engineering
 
 By *Mike Lee* [@bmf](https://twitter.com/bmf)
@@ -713,6 +779,8 @@ By *Mike Lee* [@bmf](https://twitter.com/bmf)
 - world modeling - what do we do?
 - startup earth
 - *lots of slides and just listening to this awesome talk*
+
+---
 
 ## Humanities x Technology
 
