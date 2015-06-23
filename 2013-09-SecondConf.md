@@ -3,6 +3,7 @@
 <http://www.secondconf.com/2013/>
 
 - [Design Consideration for Educational Apps](#design-consideration-for-educational-apps)
+- [Indie](#indie)
 
 # Design Consideration for Educational Apps
 
@@ -63,3 +64,39 @@ By [*Frasier Spiers*](http://www.speirs.org)
 - Support projectors and Airplay. AppleTV is big in schools.
 - What can you do with iBeacon? Automatic registration, Treasure hunts.
 - Do interesting things with AirDrop. Document sharing, picture sharing.
+
+# Indie
+
+By [*Daniel Pasco*](https://twitter.com/dlpasco)
+
+## What is Indie
+
+- Supports company with contract work, with the ability to make and sell their own apps.
+- Support yourself with your own craft, not under someone else's controls.
+- Use money as a means to make great things.
+
+## Why be Indie
+
+- Inability to be funded by investors.
+- Rather be free but poor, not the other way around.
+- Poor fit for investors. "We make apps" -> investors don't like this.
+- Freedom - ability to call the shots. Don' try to exploit employees.
+- Freedom fighters - create the place they want to work, the products they want to build.
+- Indies can transform industries. They can also create them.
+
+## Challenges
+
+- Money
+- Responsibility - Liable for everything.
+- Risk - stress
+- Employees - extra money, risk and responsibility.
+
+## Notes from the trenches
+
+- "If you are gonna be a wolf, get more wolves".
+- Client work will never go away. It's a good source of income. It keeps you sharp even though you aren't making your own products.
+- Product work will never go away either. It's fulfilling and showcases your work. Additional revenue stream. A passive marketing tool, and recruiting tool.
+- OODA Loop - observe, orient, decide, act
+- Develop a business model - fixed costs + expenses
+- Big guns are not always as good in the long run as junior devs who have potential.
+- If it was easy, everyone would do it.
