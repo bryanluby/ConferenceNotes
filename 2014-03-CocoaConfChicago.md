@@ -10,6 +10,8 @@
 - Capturing doesn't store
 - Recording mean capturing and storing
 
+---
+
 # MVVM and Reactive Cocoa for the Haters - Danny Greg
 
 ## MVC
@@ -47,6 +49,8 @@
 
 ## Epilogue
 - Cross-polination is vital to a community.
+
+---
 
 # Effective Networking - Ben Schierman
 
@@ -92,6 +96,8 @@
 - Measure api response times
 - slides speakerdeck/subdigital - code on github
 
+---
+
 # Take your automated testing to the next level - Brand Heintz -  ymedialabs.com
 
 - Defects are cheaper to fix when caught early.
@@ -107,6 +113,8 @@
 - Mocks and stubs decouple tests.
 - Test data should be under your control.
 - You will spend the most of your time in the Refactor mode of tdd.
+
+---
 
 # Advanced Core Data - Aaron Douglas
 
@@ -165,6 +173,8 @@
 - Use abnormally large test datasets.
 - github.com/astralbodies
 
+---
+
 # Stupid Video Tricks - Chris Adamson
 
 - AVFoundation for working with time base media
@@ -188,6 +198,8 @@
 - QuickTime File Format Specification
 - devforums good source of avfoundation info
 - GPUImage is hardware optimized for 5S.
+
+---
 
 # Tips and Tricks of Effective iOS Developers - Ben Schierman
 
@@ -232,6 +244,8 @@
 - write more tests
 - go forth and be effective - share what you learn with others
 
+---
+
 # View Controller Transitions - Jonathan Blocksom
 
 ## Basic Architecture 
@@ -269,6 +283,8 @@
 
 - useLayoutToLayoutNavigationTransitions
 
+---
+
 # Parallel Computing with OpenCL - Personal, Heterogeneous, Parallel Computing - Jeff Biggus
 
 - We still have vast untapped power on the desktop
@@ -290,6 +306,8 @@
 - opencl C - vector data types - vector functions - math and geometric functions - data transfer functions, image and sampler functions
 - gcl.h gcd + opencl
 - pyopencl 
+
+---
 
 # Physics and the User Interface - UIKit Dynamics - Jonathan Penn - rubbercitywizard.com/stuff
 

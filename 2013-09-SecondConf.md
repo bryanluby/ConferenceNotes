@@ -65,6 +65,8 @@ By [*Frasier Spiers*](http://www.speirs.org)
 - What can you do with iBeacon? Automatic registration, Treasure hunts.
 - Do interesting things with AirDrop. Document sharing, picture sharing.
 
+---
+
 # Indie
 
 By [*Daniel Pasco*](https://twitter.com/dlpasco)
@@ -100,3 +102,5 @@ By [*Daniel Pasco*](https://twitter.com/dlpasco)
 - Develop a business model - fixed costs + expenses
 - Big guns are not always as good in the long run as junior devs who have potential.
 - If it was easy, everyone would do it.
+
+---

@@ -326,7 +326,7 @@ By *Aleen Simms* [@Aleen](https://twitter.com/Aleen)
 4. pass opportunities on to us - it costs little to pass these to underrepresented groups
 5. pay attention to your language - alternative words lame: slow, crazy:unrealistic, turn a blind eye: they were ignorant
 6. be our ambassador - there are people who will listen only to you but not people from underrepresented groups - stand up with your support - add your voice
-7. don't' hesitate to apologize - a sincere apology is to take responsibility for your actions
+7. don't hesitate to apologize - a sincere apology is to take responsibility for your actions
 
 ---
 

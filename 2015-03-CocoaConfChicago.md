@@ -13,6 +13,8 @@
 - Custom keyboards must provide `advanceToNextInputMode`
 - `NSExtensionMainStoryboard`
 
+---
+
 ## Core Bluetooth - Will LaFrance
 
 ### Bluetooth classic
@@ -45,11 +47,13 @@
 - beware of targeting 8.0-8.1 for core bluetooth - very buggy - improved in latest betas
 - LightBlue app on appstore for peripheral discovery
 
+---
+
 ## Modern Table Views in iOS 8 - James Dempsey
 
 ### interactive transition animation
 
-- animateAlongsideTransition
+- `animateAlongsideTransition`
 
 ### dynamic table views
 
@@ -76,6 +80,8 @@
 - scrollviews don't have an instrinsic size
 - Create category on uiview with IBInspectable properties that act as a proxy property
 
+---
+
 ## Hands on With Adaptive Layout
 
 ## Playing and Learning in Playgrounds - Daniel Steinberg
@@ -91,6 +97,8 @@
 - `CGAffineTransform` - alter size, position or rotation
 - open gl need to include precision variable qualifiers `highp float ...`
 - books - 3d math primer for graphics and game development - 3d math primer for graphics and game developmnent, khan academy - the nature of code - tho computational beauty of nature - fermat's enigma
+
+---
 
 ## Who are you calling polymorphic - TJ Usiyan
 
