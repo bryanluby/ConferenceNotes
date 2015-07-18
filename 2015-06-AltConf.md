@@ -2,6 +2,8 @@
 
 <http://altconf.com>
 
+[Videos](https://realm.io/altconf/)
+
 ## Table of Contents
 
 - [Misc](#misc)
@@ -50,6 +52,8 @@
 
 By *iMore*
 
+[Video](https://realm.io/news/altconf-guy-english-serenity-caldwell-rene-ritchie-peter-cohen-imore-keynote-reaction-panel/)
+
 - WatchKit - watchOS
 - iPad split screen
 - Wider adoption of Metal
@@ -83,6 +87,8 @@ By *iMore*
 
 By *Scott Brewer* [@goawaygeek](https://twitter.com/goawaygeek)
 
+[Video](https://realm.io/news/altconf-scott-brewer-how-indoor-location-will-change-your-user-experience/)
+
 - Various location aware museum app demos - users felt closer to the works in the museum that they saw - Bluetooth beacons - Core bluetooth
 - EnsoLocate: location platform - simplifies the management of the objects in the museum space - public beta open now - "Indoor Location Made Easy" - <http://ensolocate.com>
 - Their client needed a specific problem solved and not just a generic location platform solution
@@ -93,6 +99,8 @@ By *Scott Brewer* [@goawaygeek](https://twitter.com/goawaygeek)
 ## The Stylish Objective-C Developers Guide to Swift
 
 By *Jaim Zuber* [@jaimzuber](https://twitter.com/jaimzuber)
+
+[Video](https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/)
 
 - Swift is ready for prime time
 - Careful with implicitly unwrapped optionals and nibs - Will crash in Swift and not objc if an outlet is nil
@@ -112,11 +120,13 @@ By *Jaim Zuber* [@jaimzuber](https://twitter.com/jaimzuber)
 
 By *Joe Cieplinski* [@jcieplinski](https://twitter.com/jcieplinski)
 
+[Video](https://realm.io/news/altconf-joe-cieplinski-design-is-not-for-designers/)
+
 - Design is problem solving - asking the right questions is more important than anything
 - we are more similar to architects
 - for whom do we design? Not designers but everyday people - they just want the app to work
 - dribbble should not be just a portfolio page
-- designers tend not to be as collaborative as developers - no equivalent to Github and Stack Overflow - 
+- designers tend not to be as collaborative as developers - no equivalent to Github and Stack Overflow -
 - read Marc Edwards blog for example of a designer sharing info
 - wants to see designers share more info!
 - Questions to ask: What does it do??? Is that something we should build??
@@ -159,6 +169,8 @@ By *Peter Steinberger* [@steipete](https://twitter.com/steipete)
 ## Designing for Fun
 
 By *Sarah Allen* [@mightyverse](https://twitter.com/mightyverse)
+
+[Video](https://realm.io/news/altconf-sarah-allen-designing-for-fun/)
 
 ### Meaning
 
@@ -212,6 +224,8 @@ By *Brianna Wu* [@Spacekatgal](https://twitter.com/Spacekatgal)
 
 By *Paul Zabelin* [@iospaulz](https://twitter.com/iospaulz), *Glen Tregoning* [@glent](https://twitter.com/glent)
 
+[Video](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
+
 - tests become executable docs that don't get out of date
 - tdd produces great test coverage
 - reduce manual testing time
@@ -247,6 +261,8 @@ By *Ray Wenderlich* [@rwenderlich](https://twitter.com/rwenderlich)
 
 By *Maxim Cramer* [@mennenia](https://twitter.com/mennenia)
 
+[Video](https://realm.io/news/altconf-maxim-cramer-making-users-smile-laugh-and-cry/)
+
 - meaning - people want a sense of direction in their life
 - engagement - get lost in your work - flow
 - pleasure - problem is adapting to the situation
@@ -261,6 +277,8 @@ By *Maxim Cramer* [@mennenia](https://twitter.com/mennenia)
 ## An OSS Education
 
 By *Samuel Giddins* [@segiddins](https://twitter.com/segiddins)
+
+[Video](https://realm.io/news/altconf-samuel-e-giddins-an-oss-education/)
 
 - amazed at a powerful tool like RestKit was free to use
 - in open source, you don't need a set of prerequisites to contribute
@@ -310,6 +328,8 @@ By *Justin Searls* [@searls](https://twitter.com/searls)
 
 By *Aleen Simms* [@Aleen](https://twitter.com/Aleen)
 
+[Video](https://realm.io/news/altconf-aleen-simms-7-ways-to-enrich-the-tech-industry/)
+
 - not a lot of women or diversity in the industry
 - 15% of technical roles are women
 - 56% of women leave the industry
@@ -333,6 +353,8 @@ By *Aleen Simms* [@Aleen](https://twitter.com/Aleen)
 ## Swift Thinking
 
 By *Natasha Murashev* [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
+
+[Video](https://realm.io/news/altconf-natasha-murashev-swift-thinking/)
 
 ### Learning
 
@@ -358,6 +380,8 @@ By *Natasha Murashev* [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 
 By *Matt Ronge* [@mronge](https://twitter.com/mronge)
 
+[Video](https://realm.io/news/altconf-matt-ronge-lessons-in-app-pr-how-to-launch/)
+
 - Launch starts at day 0
 - how is what you are doing better or different than what is already out there
 - book recommendation: the 22 immutable laws of marketing
@@ -375,6 +399,8 @@ By *Matt Ronge* [@mronge](https://twitter.com/mronge)
 
 By *Melinda Briana Epler* [@changecatalysts](https://twitter.com/changecatalysts)
 
+[Video](https://realm.io/news/altconf-melinda-briana-epler-imagine-a-fully-diverse-inclusive-world/)
+
 - What happened to women in computer science?
 - What could go wrong when we don't have diverse teams? Products built by men can be poorly designed when used by women.
 - What is diversity? Inviting people to the table.
@@ -386,6 +412,8 @@ By *Melinda Briana Epler* [@changecatalysts](https://twitter.com/changecatalysts
 ## What Haskell Teaches Me About Swift
 
 By *Abizer Nasir* [@abizern](https://twitter.com/abizern)
+
+[Video](https://realm.io/news/altconf-abizer-nasir-what-haskell-teaches-me-about-swift/)
 
 - Why Haskell? Learning Haskell will make you a better swift programmer!
 - Type inference
@@ -406,7 +434,7 @@ By *Abizer Nasir* [@abizern](https://twitter.com/abizern)
 - if you have pure functions, is it worth worrying about their access modifiers? Can you make them bare functions instead?
 - group together functions into a protocol
 - Books: Learn you a Haskell for Great Good - Real World Haskell - Functional Programming in Swift - Maybe Haskell by Pat Brisbin
-- With Cocoa now, we have the choice of two different approaches to the same problem space 
+- With Cocoa now, we have the choice of two different approaches to the same problem space
 - Don't confuse complexity for unfamiliarity!
 
 ---
@@ -414,6 +442,8 @@ By *Abizer Nasir* [@abizern](https://twitter.com/abizern)
 ## Building in Success with Market First Development
 
 By *Charles Perry* [@DazeEnd](https://twitter.com/DazeEnd)
+
+[Video](https://realm.io/news/altconf-charles-perry-building-in-success-with-market-first-development/)
 
 - 0.01% of devs consider their apps to be financially successful
 - devs only think like engineers - think like entrepreneurs
@@ -437,7 +467,7 @@ By *Charles Perry* [@DazeEnd](https://twitter.com/DazeEnd)
 
 ### conceive of a product
 
-- Brainstorm product ideas 
+- Brainstorm product ideas
     - if you are a member of that niche ask yourself the questions
     - Ask questions or interview people in the niche - What things frustrate these users?
     - Look for real world objects to turn into virtual objects
@@ -447,7 +477,7 @@ By *Charles Perry* [@DazeEnd](https://twitter.com/DazeEnd)
     - does it save the customer money?
     - Do you save the customer time? Time is real money!
     - What does the existing competition look like? The fact that competitors exists is proof that there is demand for a product
-    - Can you charge money? What is your monetization plan? 
+    - Can you charge money? What is your monetization plan?
 
 ### execute
 
@@ -458,6 +488,8 @@ By *Charles Perry* [@DazeEnd](https://twitter.com/DazeEnd)
 ## Localization
 
 By *Laura Savino* [@savinola](https://twitter.com/savinola)
+
+[Video](https://realm.io/news/altconf-laura-savino-localization-because-n-est-pas-por-todo-el-mundo/)
 
 ### Incorrect Assumptions
 
@@ -484,6 +516,8 @@ By *Laura Savino* [@savinola](https://twitter.com/savinola)
 
 By *Orta Therox* [@orta](https://twitter.com/orta)
 
+[Video](https://realm.io/news/altconf-orta-therox-being-nice-in-open-source/)
+
 - nice has different meanings
 - normal person + perceived privacy + yes people audience = total jerkface
 - friction with other people is easy
@@ -500,6 +534,8 @@ By *Orta Therox* [@orta](https://twitter.com/orta)
 ## CoreBluetooth and You
 
 By *Jon Shier* [Jon Shier](https://jonshier.com)
+
+[Video](https://realm.io/news/altconf-jon-shier-corebluetooth-and-you/)
 
 - low power, on the order of months for a single cell battery
 - designed for small bits of data at low power
@@ -540,6 +576,8 @@ By *Jon Shier* [Jon Shier](https://jonshier.com)
 ## NSFWObjectiveC
 
 By *Sash Zats* [@zats](https://twitter.com/zats)
+
+[Video](https://realm.io/news/altconf-sash-zats-nsfwobjectivec/)
 
 - Explore objective-c runtime
 - Creating classes at runtime
@@ -591,7 +629,7 @@ By *Justin Spahr-Summers* [@jspahrsummers](https://twitter.com/jspahrsummers)
     - Action (instead of RACCommand)
     - PropertyType protocol - replace KVC, KVO - they always have a current value that you can read - observable!
     - The theme of all the changes in RAC 3 are in the name of simplicity
-        - easy - familiar or approachable 
+        - easy - familiar or approachable
         - simple - separate concerns - less complex - single responsibility principle - unix: small tools that can be composed together
         - RAC 2 is neither easy nor simple
     - Changelog.md file good resource on RAC 3 changes
@@ -626,7 +664,7 @@ By *Javier Soto* [@Javi](https://twitter.com/Javi)
 #### Frustrations
 
 - compiler crashes (Swift 2 fixes many of them)
-- type errors 
+- type errors
     - extract intermediate results into separate values
     - inspect the types with option ? click
     - check RAC's functions signatures command click
@@ -653,6 +691,8 @@ By *Javier Soto* [@Javi](https://twitter.com/Javi)
 ## Functional Programming in Swift
 
 By *Chris Eidhof* [@chriseidhof](https://twitter.com/chriseidhof)
+
+[Video](https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/)
 
 - Mostly a (*Frakking awesome!*) live coding demo of functional view controllers
 - [Example Code](https://github.com/chriseidhof/github-issues)
@@ -690,13 +730,15 @@ By *Marin Todorov* [@icanzilb](https://twitter.com/icanzilb)
 
 By *Kathryn Rotondo* [@krotondo](https://twitter.com/krotondo)
 
+[Video](https://realm.io/news/altconf-kathryn-rotondo-designing-mobile-apps-for-kids/)
+
 - What are kids? Young kids, kids under the age of 18, still maturing, etc.
 - 5 Patterns
     1. provide friendly company inside the app for the child - have guides or hosts in the app - friendly voice or character that guides the child through the app
     2. intuitive instructions - visually explicit - make app as usable without any instructions at all - if you do need instructions, then "show" them
     3. encouraging feedback - sound effects - give friendly corrections - give incremental tiered feedback - give random rewards that happen intermittently throughout gameplay - give feedback that in put has been registered
-    4. helpful reminders (most important concept) - inactivity timeouts 
-    5. happy endings - what happens at the end of gameplay for a child - information 
+    4. helpful reminders (most important concept) - inactivity timeouts
+    5. happy endings - what happens at the end of gameplay for a child - information
 - Resources
     - Sesame Best Practices book
     - Design for Kids books
@@ -771,9 +813,11 @@ By *Aaron Hillegass* [@AaronHillegass](https://twitter.com/AaronHillegass)
 
 By *Mike Lee* [@bmf](https://twitter.com/bmf)
 
+[Video](https://realm.io/news/altconf-mike-lee-planetary-engineering/)
+
 - givens
-- humans need not apply - cgp grey 
-- world modeling video 
+- humans need not apply - cgp grey
+- world modeling video
 - <https://github.com/ElDragonRojo/slides>
 - the fermi paradox - where is everybody? The great filter
 - world modeling - what do we do?
@@ -785,6 +829,8 @@ By *Mike Lee* [@bmf](https://twitter.com/bmf)
 ## Humanities x Technology
 
 By *Ashley Nelson-Hornstein* [@ashleynh](https://twitter.com/ashleynh)
+
+[Video](https://realm.io/news/altconf-ashley-nelson-hornstein-humanities-technology/)
 
 - lack of knowledge of device specs
 - the intersections between technology and liberal arts
