@@ -714,6 +714,8 @@ By *Will Shipley* [@wilshipley](https://twitter.com/wilshipley)
 
 By *Marin Todorov* [@icanzilb](https://twitter.com/icanzilb)
 
+[Video](https://realm.io/news/altconf-marin-todorov-animations/)
+
 - iOS 9
     - `UIViewAnimationOptions` are now `OptionSetType` - can use an empty set or combination of options
     - spring animations - new `CASpringAnimation`
@@ -751,6 +753,8 @@ By *Kathryn Rotondo* [@krotondo](https://twitter.com/krotondo)
 ## The Worst Code
 
 By *Michele Titolo* [@MicheleTitolo](https://twitter.com/MicheleTitolo)
+
+[Video](https://realm.io/news/altconf-michele-titolo-worst-code/)
 
 - How "not" to create software
 - "software is ultimately about people"
