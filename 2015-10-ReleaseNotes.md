@@ -8,6 +8,9 @@
 - [Flow](#flow)
 - [The Great Pretender](#the-great-pretender)
 - [Motivation](#motivation)
+- [Engineering Stories](#engineering-stories)
+- [Playing the Long Game](#playing-the-long-game)
+- [Time Management](#time-management)
 
 ### Keynote
 
@@ -146,3 +149,99 @@ By Myke Hurley
     - Mind your growth
     - Build assets
 
+### Engineering Stories
+
+*By John Saddington* [@8bit](https://twitter.com/8bit)
+
+- <http://blog.desk.pm>
+- Marketing is storytelling
+- 50/50 rule - need both great products and great storytelling
+- Great product - great distribution
+- Blogging - product generated feedback
+- Stories are emotional - not just the product but the process of building the product
+- Released revenue figures
+- Negative sales numbers
+- Engineering struggles
+- Design perspectives
+- Physical environment
+- Products used to build app
+- Always be experimenting!
+- Traction book by Gabriel Weinberg
+
+### Playing the Long Game
+
+*By Chris Liscio* [@liscio](https://twitter.com/liscio)
+
+- Expand your horizons to increase opportunities
+- Attend more "parties"
+- Option 1: Mass Market
+- Option 2: Niche - recommended - typically under served by software
+- Build tools, not toys.
+- Help save the poor, rich customers!
+- Pricing
+    - Price carefully - avoid the race to the bottom
+    - Make a cheaper *version* of your app - example: Capo touch
+    - When you choose not the join the race to the bottom, you are playing in a different sport
+- Revenue is oxygen
+- Bank the bursts - "You get more time on the clock"
+- Diversify 
+    - play to your strengths 
+    - Look at the Mac market (especially if building in productivity space)
+- Connections
+    - Attend local groups
+    - Trade shows - not geared for small businesses - good time to market to a niche
+    - Partnerships - form partnerships with other devs
+    - Apple can help - Go to app store lab at WWDC - Contact evangelists
+    - Make friends in the press, but don't overdo it!
+- Staying Sane
+    - Exercise! Make time for it. Stick to a long term plan.
+    - Plan, plan, plan
+    - Keeping pace is exhausting - Apple moves fast
+    - "Retire" now - take regular mental breaks - Have hobbies
+    - Your time is *yours* - say no to things
+    - Forget the Joneses
+    - Success is relative - What does success look like to you
+
+### Time Management
+
+*By Rachel Andrew* [@rachelandrew](https://twitter.com/rachelandrew)
+
+- Time management- "Goals are dreams with deadlines"
+- Complete things!
+- Start with something small that you can *ship*.
+- Making time
+- Make you project a *first class citizen* - Don't treat it like a hobby.
+- Try to schedule a regular shot
+- Use your down time wisely - waiting for a train, airplane, commuting
+- People get ahead during the time that others waste 
+- Always be ready to jump into your project.
+- Be careful not to to mix employer work and your own product.
+- Organize tasks by *where* they can be completed or the *state of mind* you need for them: at desk, offline, to listen to, needs focus, tired
+- Always be ready to work offline - Store the things you need along with the to do item
+- Optimize for *your* situation - productivity tip are often situation dependent
+- Optimize your environment - how quickly can you switch into your project?
+- Say No to things that won't help you meet your goal.
+- Beware the *entreporn* - entrepreneurial success fantasies - Focus on actionable material relevant to you
+- Follow people who are good filters of information
+- Saying no to family and friends
+- Sharing your goal - help those you care for feel part of your progress
+- A realistic schedule - helps your family see there is an end in sight
+- Schedules & Lists
+- You need a to do list!
+    - helps stay on track
+    - Start with the end goal in mind, divide it down into smaller pieces
+- Break it down into sections - 6 months can be divided into 6 lists
+- As you work, create two week sprints
+- "I don't know how long anything will take" - accept that there will be a level of inaccuracy.
+- Estimates
+- A schedule helps keep motivated as you progress towards an end date - without a schedule it is easy to drift
+- Most people are terrible at estimating time - we tend to be over-optimistic - we want to please the person asking
+- Find out how long things really take - track actual usage against original estimate
+- When the scope is overwhelming - extend the completion date, remove features
+- "The longer it takes to develop, the less likely it is to launch." - Jason Fried
+- How to manage a growing project - A product should be given more time as it represents a higher % of your income 
+- Never promise a specific time frame to customers
+- Collect Use Cases not Feature Requests
+- Make frequent, *small* releases
+- Products benefit from clarity of purpose and ownership - don't be afraid to say no
+- Remember to enjoy the *journey*. Don't over fixate on the goal.
