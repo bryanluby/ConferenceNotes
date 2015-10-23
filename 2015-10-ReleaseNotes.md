@@ -11,8 +11,17 @@
 - [Engineering Stories](#engineering-stories)
 - [Playing the Long Game](#playing-the-long-game)
 - [Time Management](#time-management)
+- [Superheroes with a Compass](#superheroes-with-a-compass)
 
 ### Keynote
+
+- Start a side business.
+    - Take the things you learn and apply to the next.
+- Quit your job. Especially if you hate it!
+    - Get out of your rut.
+    - No one has any idea on how to run a business.
+- App dev business is not unique to other businesses.
+    - Learn how to solve business problems from other types of businesses.
 
 By Myke Hurley
 
@@ -245,3 +254,36 @@ By Myke Hurley
 - Make frequent, *small* releases
 - Products benefit from clarity of purpose and ownership - don't be afraid to say no
 - Remember to enjoy the *journey*. Don't over fixate on the goal.
+
+### Superheroes with a Compass
+
+*By David Smith* [@_DavidSmith](https://twitter.com/_DavidSmith)
+
+- There is no "formula" for success. We all have different paths.
+- Try and optimize our chances for being successful.
+- Honesty & Introspection
+- What is *your* superpower?
+- Where does your compass point?
+- Leverage is all about magnifying our strengths.
+- Two traps - Traps are friction - Leverage is our amplification
+    - Imitation
+        - Admiration is nice. Aspiration is useful. Imitation is dangerous. Imitation lacks *context*.
+        - What are you *good* at? Ex. Finding the point of diminishing returns.
+        - *What* makes you good?
+        - This is your unique edge.
+        - Are you using your superpower. Are you aligning your business with it?
+    - Undefined Success
+        - Why do you have a business? Or why do you want to have a business?
+        - What does *success* look like for you?
+        - You can only have one goal. You *might* get more than one. The problem is trying to have them all at the same time. Business is not a straight line.
+        - You need a compass. It does one thing. It allows you to navigate.
+        - By focusing on one thing you increase your chances of getting the other things too.
+        - Does it make my business more stable?
+            - Ex. having lots of apps in the app store.
+            - Experimenting with pricing schemes.
+            - Should I add this feature?
+        - What is your *singular focus*?
+        - What one thing would mean success to you? Focus on that. It should be a simple answer. 
+        - Being an indie is a mixed blessing. Freedom of choice but limited time/money resources.
+        - You have to use your unique skills.
+        - The intersection of your unique abilities and your *focused* attention is your most powerful work.
