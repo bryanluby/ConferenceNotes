@@ -12,6 +12,9 @@
 - [Playing the Long Game](#playing-the-long-game)
 - [Time Management](#time-management)
 - [Superheroes with a Compass](#superheroes-with-a-compass)
+- [The Joys of Quality Assurance](#the-joys-of-quality-assurance)
+- [Smart Sponsorship](#smart-sponsorship)
+- [Hiring the Right People](#hiring-the-right-people)
 
 ### Keynote
 
@@ -287,3 +290,53 @@ By Myke Hurley
         - Being an indie is a mixed blessing. Freedom of choice but limited time/money resources.
         - You have to use your unique skills.
         - The intersection of your unique abilities and your *focused* attention is your most powerful work.
+
+### The Joys of Quality Assurance
+
+*By Daniel Pasco* [@dlpasco](https://twitter.com/dlpasco)
+
+- What does QA even mean?
+- QA is not just for large companies.
+- QA is commonly regarded as a necessary burden.
+- Unit tests and automated tests are not enough.
+- Can find interactions you never consider.
+- They understand the product as well as anyone on the team.
+- Pair QA with the dev - Their QA creates their own builds.
+- They are informed  embedded, participate in product definition and design review
+- Great QA produces a more effective and happy team
+- It also results in a lot more work
+- It exposes a lot of mistakes
+- Really professional devs embrace QA
+- Sharee Penna test plan
+- Black Pixel QA blog post series
+- Perfect "Quality Assurance" is impossible. So why bother? The purpose of QA is to assess the risk of shipping your product to your company. There is only risk minimization.
+- Beta testing groups can have long turnaround times. Low quality bug reports. Makes a good "adjunct" to internal testing.
+
+### Smart Sponsorship
+
+#### Grow your community and grow your business
+
+*By Jean MacDonald* [@macgenie](https://twitter.com/macgenie)
+
+- Don't rush community building. It is built up little by little over time.
+- Podcast sponsorships
+    - Find podcast hosts that already use your software. Difficult to pitch to someone who doesn't care about your software.
+    - Long-term regular podcast sponsorships. At least 4 episodes, or 4 over 4 months.
+    - Formulate bullet points for the hosts of the podcast. Also have a product tagline for the podcast.
+    - Amplify your podcast sponsorship spots with social media.
+
+### Hiring the Right People
+
+*By Jim Dalrymple* [@jdalrymple](https://twitter.com/jdalrymple)
+
+- Making Decisions
+    - Do it for the right reasons
+    - Understand the benefits
+    - Know the consequences
+    - What causes poor decisions
+        - Fear
+        - Greed
+        - The need to impress
+    - What do we don when something is not working? We tend to over-focus on that one thing. Slow down and take a step back.
+- The smartest people on paper aren't always the best fit.
+- What to do about a bad hire. Are you being honest with yourself about what you need out of the hire. Fire them if "you" are not the problem with the bad hire.
