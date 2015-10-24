@@ -4,6 +4,7 @@
 
 - [Design Consideration for Educational Apps](#design-consideration-for-educational-apps)
 - [Indie](#indie)
+- [Zen and the Art of Quitting your Job](#zen-and-the-art-of-quitting-your-job)
 
 # Design Consideration for Educational Apps
 
@@ -104,3 +105,70 @@ By [*Daniel Pasco*](https://twitter.com/dlpasco)
 - If it was easy, everyone would do it.
 
 ---
+
+# Zen and the Art of Quitting your Job
+
+*By Ashe Dryden* [@ashedryden](https://twitter.com/ashedryden)
+
+## Questions for Yourself
+
+- Zen & the Art of Motorcycle Maintenance book mention.
+- What would happen if you were fired today?
+- What would you work on?
+- Who would you be with?
+- If you could work anywhere, where would you work?
+
+## Why Quit?
+
+- Better for relationships and social life.
+- Better for your health. Reduced stress.
+- Better for your career and skills.
+
+## Why are you thinking about quitting?
+
+- 80% of people are dissatisfied with jobs.
+- You might feel stuck.
+- You might have low work/life balance.
+- Burnout: years of lac of interest
+- Apathy: don't care about product. No opinions on things. Cynical.
+- No creativity, no passion. Coding is a chore.
+- This leads to unhappiness + laziness. Late for work. Smiling is rare.
+- You can't be yourself at work - feel excluded.
+- Lack of growth and challenge. Solving the exact same problems over + over again. (Consulting is like this for some.)
+- Money + benefits - Where was last vacation. Bad health insurance.
+- High stress: heart disease + lots of other problems.
+- It's killing us as developers. It's killing our creativity.
+
+## Preparing to Quit
+
+- Make some lists.
+- Expenses for living. Reduce them!
+- Stock up on: food, savings, emergency fund, nice clothes for job interviews.
+- What I need: people to spend time with, hobbies to get back into.
+- What I want out of life: If the next 5 years are the last 5 years of your life, what would I do?
+
+## It's Time
+
+- Quit: but take some time off first.
+- Don't get too worried about finding a position you might not want.
+- Add structure to time off. Exercise + rest.
+- Gain perspective on your past: what was it about your job or you that was causing problems.
+- Help some humans: find someone new and teach them something. Teach kids to make apps.
+- Meet people outside of tech.
+- Rekindle your passion. Learn something outside of your comfort zone. Attend meetups for skills you've never tried.
+- Distinguish yourself. Blog about yourself. Tell people about yourself at meetups.
+
+## Now What?
+
+- Don't settle - What do you want from work?
+- What things should a job have for you to enjoy it.
+- What should you be getting paid? Add 25% to that!!!
+- What about the work environment: social workplace environment.
+- Dream big: What is the company you most want to work for?
+- Be proud of your work. Work somewhere where they are proud of you and your work.
+- Interview the company. What is special. How do they deal with disagreements. How many meetings. Conference budget. Talk to people you might be working with. Do you like them. How often do you need to work weekends or evenings. How about deadlines? What is your least favorite thing about your job.
+- Take your time. Live frugally. Talk it over with your family.
+
+## Passion
+
+- "Find the place that you will give everything too."
