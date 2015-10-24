@@ -18,6 +18,8 @@
 
 ### Keynote
 
+*By Myke Hurley* [@imyke](http://twitter.com/imyke)
+
 - Start a side business.
     - Take the things you learn and apply to the next.
 - Quit your job. Especially if you hate it!
@@ -25,8 +27,6 @@
     - No one has any idea on how to run a business.
 - App dev business is not unique to other businesses.
     - Learn how to solve business problems from other types of businesses.
-
-By Myke Hurley
 
 ### Flow
 
