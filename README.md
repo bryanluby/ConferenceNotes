@@ -4,6 +4,7 @@ These are just my personal notes I have taken at various conferences I have atte
 
 ## 2016
 
+- [Release Notes 2016](2016-09-ReleaseNotes.md)
 - [WWDC 2016](2016-06-WWDC.md)
 
 ## 2015
