@@ -12,6 +12,12 @@
 - [Kickstarting your app with user feedback](#kickstarting-your-app-with-user-feedback)
 - [Challenging Your Assumptions](#challenging-your-assumptions)
 - [Finally Automation Magic for both iOS and macOS](#finally-automation-magic-for-boths-ios-and-macos)
+- [The Secret Life of Types in Swift](#the-secret-life-of-types-in-swift)
+- [Swift Things Programming the Internet of Things with Swift](#swift-things-programming-the-internet-of-things-with-swift)
+- [What the Swiftly Func](#what-the-swiftly-func)
+- [Helping Users Create Good Habits](#helping-users-create-good-habits)
+- [Bringing Machine Learning to your iOS Apps](#bringing-machine-learning-to-your-ios-apps)
+- [Misc Notes](#misc-notes)
 
 ## Keynote
 
@@ -488,4 +494,9 @@ Meghan Kane @meghafon
 - Check resources slide for this talk for all links
 - tinyletter.com/letsinfer + companion podcast
 - bike worshop app will use ML
+
+## Misc Notes
+
+- CALayer now has maskedCorners: CACornerMask
+- Mail-like full swipe gesture for any table view
 
