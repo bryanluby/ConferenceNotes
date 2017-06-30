@@ -17,7 +17,7 @@
 - [What the Swiftly Func](#what-the-swiftly-func)
 - [Helping Users Create Good Habits](#helping-users-create-good-habits)
 - [Bringing Machine Learning to your iOS Apps](#bringing-machine-learning-to-your-ios-apps)
-- [Misc Notes](#misc-notes)
+- [Misc WWDC Video Notes](#misc-wwdc-video-notes)
 
 ## Keynote
 
@@ -495,8 +495,21 @@ Meghan Kane @meghafon
 - tinyletter.com/letsinfer + companion podcast
 - bike worshop app will use ML
 
-## Misc Notes
+## Misc WWDC Video Notes
 
-- CALayer now has maskedCorners: CACornerMask
-- Mail-like full swipe gesture for any table view
+- `CALayer` now has maskedCorners: `CACornerMask` (Also can now animate rounding of corners)
+- Mail-like full swipe gesture for any table view `performsFirstActionWithFullSwipe` boolean
+- Drag and drop is also available on iPhone but is restricted to within the same application
+- `NSLinguisticTagger` can detect the dominant language of a given string.
+- `NSJSONSerialization` supports sorted keys
+- `NSArray` `NSDictionary` and `NSSet` support copy-on-write
+- Block-based KVO (Swift only?)
+- Drag/drop interaction objects are similar to gesture recognizers
+- Enable large nav bar titles with `prefersLargeTitle`and `largeTitleDisplayMode`
+- Foundation added support for achiving to json and plist
+- UIScrollView `contentLayoutGuide` `frameLayoutGuide` for Auto Layout
+- Can use `UIFontMetrics` to scale arbitrary layout spacing values with dynamic type
+- For Auto Layout and Dynamic type can use `constraintEqualToSystemSpacing` with and `spacingUsingSystem` for `UIStackView` to let system find the ideal amount of spacing for different dynamic type sizes.
+- Wide color (P3) support for app icons
+- Touch Bar - Can use interface builder to build touch bar support for macOS apps - `acceptsFirstResponder` gotcha - `otherItemsProxy`for sharing touch bar items between touch bars
 

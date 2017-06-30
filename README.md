@@ -2,6 +2,10 @@
 
 These are just my personal notes I have taken at various conferences I have attended or watched online:
 
+## 2017
+
+- [AltConf 2017](2017-06-AltConf.md)
+
 ## 2016
 
 - [Release Notes 2016](2016-09-ReleaseNotes.md)
