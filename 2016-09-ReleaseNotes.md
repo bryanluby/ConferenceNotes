@@ -1,6 +1,6 @@
 # Release Notes 2016
 
-[https://releasenotes.tv/conference/]()
+[https://releasenotes.tv/conference/](https://releasenotes.tv/conference/)
 
 ## Table of Contents
 
