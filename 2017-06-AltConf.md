@@ -512,4 +512,7 @@ Meghan Kane @meghafon
 - For Auto Layout and Dynamic type can use `constraintEqualToSystemSpacing` with and `spacingUsingSystem` for `UIStackView` to let system find the ideal amount of spacing for different dynamic type sizes.
 - Wide color (P3) support for app icons
 - Touch Bar - Can use interface builder to build touch bar support for macOS apps - `acceptsFirstResponder` gotcha - `otherItemsProxy`for sharing touch bar items between touch bars
+- Can use Core Bluetooth on watchOS 4
+- New Quick Look preview extension - system-wide (apps using quick look and spotlight 3d touch search results), full quick look experience with `QLPreviewingController`
+- `NSDirectionalEdgeInsets` - Edge insets that take language direction into account
 
