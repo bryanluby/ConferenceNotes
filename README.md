@@ -2,6 +2,10 @@
 
 These are just my personal notes I have taken at various conferences I have attended or watched online:
 
+## 2019
+
+- [Swift by Midwest](2019-04-SwiftByMidwest.md)
+
 ## 2018
 
 - [WWDC 2018](2018-06-WWDC.md)
