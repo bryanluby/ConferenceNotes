@@ -13,7 +13,7 @@
     - *Why* is something happening?
 - Look for articulation points. Points where you can remove a node from a graph and cause it to become disconnected. Allows you to safely ignore parts of the problem space.
 - Keep a log of what you have done and what you have found. Helpful for yourself and your colleagues in the future.
-- Use Xcode custom quicklook inspector - `debugQuickLookObject`
+- Use Xcode custom Quick Look inspector - `debugQuickLookObject`
 - Swift 5 interpolation for better print debugging
 - Command-Shift-D reveal into view debugger inspector
 
@@ -51,7 +51,8 @@
 
 - https://github.com/rnapier/generics
 - Don’t *always* start with a protocol
-- It’s all about extensions - How does a protocol allow me to write a generic algorithm
+- It’s all about extensions
+- How does a protocol allow me to write a generic algorithm
 - Write concrete code *first*. *Then* work out generics when you find you need abstraction.
 - Swift protocols (except Error) do not conform to themselves
 - Mocks are a terrible way to design protocols
@@ -67,11 +68,11 @@
 
 ## Living the Monadstic Life - Daniel Steinberg
 
-- Mostly code samples and crowd participation
+- Mostly code samples and crowd participation going over functional programming concepts
 
 ## Tool Builders For Life - Jaimee Newberry @jaimeejaimee
 
-- The process of discovery is more important than the solution.
+- "The process of discovery is more important than the solution"
 - Breakdown occurs when clarity of vision is lacking.
 - Create a “What’s important to me” list.
 - jaimeejaimee.com/speaking - Speaking tips
@@ -79,3 +80,46 @@
 - picturethisclothing storytelling
 - Steve jobs video on poking life and making tools that other people can use
 - Why - what - work - iterate
+
+## Crows Can Understand Symbols, Can Apple’s Vision Framework - Jen Kelley @thehulkstoy
+
+- Vision framework to use image recognition on a knitting chart
+- Image orientation is important for accurate processing
+- CoreML with Vision announced at WWDC 2018
+- CreateML for easy model creation
+- CreateMLUI framework can show live view in Swift Playgrounds
+- Consider consulting with a data scientist before training your model to remove any potential bias
+- https://github.com/jenkelley/TextPlay
+
+## Wh@t is th@t - Mark Dalrymple @borkware
+
+- Attributes: examples @IBOutlet @UIApplicationMain @testable
+- Language feature: @discardableResult, @escaping, @noreturn, @autoclosure, @dynamic
+- Interoperability: @objc, @objc(methodName), @objcMembers, @convention
+- Fine Control: @_semantics, @transparent, @unsafe_no_objc_tagged_pointer
+- Platform Peculiarities: @IBOutlet, @IBAction, @available, @UIApplicationMain
+- How does it work? Source Code -> Abstract Syntax Tree -> Object Code
+    - SIL: Source Code -> AST -> LLMV IR -> Object Code
+    - apple/swift/docs directory for compiler docs: https://github.com/apple/swift/tree/master/docs
+    - find unix command: change to your directory - “find . -type f -exec grep Something {}\; -print” search current directory for files, for the file execute the grep command using the file path, printing the filename. Faster alternatives: ack, ag, rg
+    - Can be helpful to use a text editor with a built-in shell
+
+## A Promise for a Better Future - Ben Scheirman @subdigital
+
+- Promises
+    - PromiseKit examples
+    - https://github.com/mxcl/PromiseKit
+    - Chaining support, Collecting values, concurrent promises, timing delay, error recovery, retry support
+- Futures
+    - frequently seen in Vapor and Swift NIO 
+    - a future is a read-only container for a value that has not arrived yet
+    - Your code will typically make promises but return futures
+- Async / Await
+    - Part of the current swift concurrency manifesto
+    - https://gist.github.com/lattner/429b9070918248274f25b714dcfc7619
+    - Probably not part of Swift 6
+
+# The Swift Name Game - James Dempsey @jamesdempsey
+
+- Audience participation trivia game going over Swift API naming guidelines
+- https://swift.org/documentation/api-design-guidelines/
