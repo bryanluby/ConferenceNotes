@@ -44,7 +44,7 @@
 - Keep asynchronous calls as short as possible
 - Make sure the shortcut actually benefits the user
 - bit.ly/sirikitapps
-- settings > developer has Siri debugging options
+- iOS Settings > Developer has Siri debugging options
 - https://github.com/jacobvanorder/SwiftByMidwest2019_SiriKit
 
 ## Generic Swift - It Isn’t Supposed To Hurt - Rob Napier @cocoaphony
@@ -111,8 +111,8 @@
     - https://github.com/mxcl/PromiseKit
     - Chaining support, Collecting values, concurrent promises, timing delay, error recovery, retry support
 - Futures
-    - frequently seen in Vapor and Swift NIO 
-    - a future is a read-only container for a value that has not arrived yet
+    - Frequently seen in Vapor and Swift NIO 
+    - A future is a read-only container for a value that has not arrived yet
     - Your code will typically make promises but return futures
 - Async / Await
     - Part of the current swift concurrency manifesto
