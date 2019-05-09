@@ -19,7 +19,7 @@
 
 ## I’m a Coder: Codable & NSCoding - Liz Marley @Adana
 
-- gist.github.com/emarley
+- https://gist.github.com/emarley
 - https://developer.apple.com/documentation/swift/decodingerror
 - Move decodable *struct* conformances to extensions. Also gives you back the default initializer!
 - Try having separate bare-bones structs for api responses
@@ -30,12 +30,12 @@
 
 ## Hey Siri, How do I Implement You - Jacob Van Order
 
-- Leverage NSUserActivity
+- Leverage `NSUserActivity`
 - Intents framework
 - Make sure it is eligible for prediction and invocation phrase
 - Make sure to localize your suggested phrase
 - Setup entitlements
-- INShortcut 
+- `INShortcut`
 - Intents extension
 - Intent is like a question from the user to Siri
 - Can use parameters in intents definition file
@@ -43,7 +43,7 @@
 - Think about functionality that is deep in your app workflow but is still used
 - Keep asynchronous calls as short as possible
 - Make sure the shortcut actually benefits the user
-- bit.ly/sirikitapps
+- https://bit.ly/sirikitapps
 - iOS Settings > Developer has Siri debugging options
 - https://github.com/jacobvanorder/SwiftByMidwest2019_SiriKit
 
@@ -75,7 +75,7 @@
 - "The process of discovery is more important than the solution"
 - Breakdown occurs when clarity of vision is lacking.
 - Create a “What’s important to me” list.
-- jaimeejaimee.com/speaking - Speaking tips
+- https://jaimeejaimee.com/speaking - Speaking tips
 - Iterate to improve
 - picturethisclothing storytelling
 - Steve jobs video on poking life and making tools that other people can use
